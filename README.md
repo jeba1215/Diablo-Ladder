@@ -1,2 +1,2 @@
 # Diablo-Ladder
-Simple ladder for diablo 3 characters made in flask and designed with bootstrap
+Simple ladder for diablo 3 characters using the Diablo web-api made in flask and designed with bootstrap
