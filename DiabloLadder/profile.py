@@ -4,14 +4,14 @@ def create_ladder_entries(data):
 	ladder_entries = []
 	for profile in data:		
 		for hero in profile["heroes"]:			
-			if(hero["hardcore"] and hero["seasonal"]):
+			if(hero["seasonal"]):
 				ladder_entry = {}
 				ladder_entry["name"] = hero["name"]
 				ladder_entry["level"] = hero["level"]
 				ladder_entry["class"] = hero["class"]
-				ladder_entry["dead"] = hero["dead"]
 				ladder_entry["battleTag"] = profile["battleTag"]
-				ladder_entry["paragonLevelSeasonHardcore"] = profile["paragonLevelSeasonHardcore"]
+				ladder_entry["paragonLevelSeason"] = profile["paragonLevelSeason"]
+				ladder_entry["hardcore"] = hero["hardcore"]
 				ladder_entries.append(ladder_entry)
 	pprint.pprint (ladder_entries)
 	return ladder_entries

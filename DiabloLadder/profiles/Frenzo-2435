@@ -1,102 +1,146 @@
 {
   "battleTag" : "Frenzo#2435",
-  "paragonLevel" : 274,
-  "paragonLevelHardcore" : 93,
-  "paragonLevelSeason" : 0,
-  "paragonLevelSeasonHardcore" : 205,
+  "paragonLevel" : 277,
+  "paragonLevelHardcore" : 252,
+  "paragonLevelSeason" : 515,
+  "paragonLevelSeasonHardcore" : 0,
   "heroes" : [ {
-    "paragonLevel" : 205,
+    "paragonLevel" : 515,
     "seasonal" : true,
-    "name" : "FelixWillDie",
-    "id" : 54745042,
+    "name" : "GingerFelix",
+    "id" : 58287316,
     "level" : 70,
-    "hardcore" : true,
-    "gender" : 1,
+    "hardcore" : false,
+    "last-updated" : 1431810750,
+    "gender" : 0,
     "dead" : false,
-    "class" : "wizard",
-    "last-updated" : 1424823226
+    "class" : "demon-hunter"
   }, {
-    "paragonLevel" : 274,
+    "paragonLevel" : 277,
     "seasonal" : false,
     "name" : "Fraiser",
     "id" : 53731216,
     "level" : 70,
     "hardcore" : false,
+    "last-updated" : 1427987798,
     "gender" : 1,
     "dead" : false,
-    "class" : "witch-doctor",
-    "last-updated" : 1423430482
+    "class" : "witch-doctor"
   }, {
-    "paragonLevel" : 274,
+    "paragonLevel" : 277,
     "seasonal" : false,
     "name" : "TUNK",
     "id" : 54135269,
     "level" : 70,
     "hardcore" : false,
+    "last-updated" : 1428675006,
     "gender" : 1,
     "dead" : false,
-    "class" : "barbarian",
-    "last-updated" : 1423340293
+    "class" : "barbarian"
   }, {
-    "paragonLevel" : 205,
-    "seasonal" : true,
-    "name" : "HUEHUEII",
-    "id" : 55959438,
+    "paragonLevel" : 252,
+    "seasonal" : false,
+    "name" : "OMGlastTime",
+    "id" : 56850038,
     "level" : 70,
     "hardcore" : true,
-    "gender" : 1,
+    "last-updated" : 1428675148,
+    "gender" : 0,
     "dead" : false,
-    "class" : "crusader",
-    "last-updated" : 1424992291
+    "class" : "demon-hunter"
   }, {
-    "paragonLevel" : 93,
+    "paragonLevel" : 252,
     "seasonal" : false,
     "name" : "Kruksi",
     "id" : 53910137,
     "level" : 57,
     "hardcore" : true,
+    "last-updated" : 1423472891,
     "gender" : 0,
     "dead" : false,
-    "class" : "witch-doctor",
-    "last-updated" : 1423472891
+    "class" : "witch-doctor"
   }, {
-    "paragonLevel" : 93,
+    "paragonLevel" : 252,
     "seasonal" : false,
     "name" : "Kluiq",
     "id" : 52946202,
     "level" : 57,
     "hardcore" : true,
+    "last-updated" : 1423475691,
     "gender" : 1,
     "dead" : false,
-    "class" : "wizard",
-    "last-updated" : 1423475691
+    "class" : "wizard"
   }, {
-    "paragonLevel" : 274,
+    "paragonLevel" : 277,
     "seasonal" : false,
     "name" : "Ruuuustie",
     "id" : 54382475,
     "level" : 68,
     "hardcore" : false,
+    "last-updated" : 1423433571,
     "gender" : 1,
     "dead" : false,
-    "class" : "demon-hunter",
-    "last-updated" : 1423433571
+    "class" : "demon-hunter"
+  }, {
+    "paragonLevel" : 515,
+    "seasonal" : true,
+    "name" : "UNDERDUFF",
+    "id" : 59452596,
+    "level" : 70,
+    "hardcore" : false,
+    "last-updated" : 1431624180,
+    "gender" : 0,
+    "dead" : false,
+    "class" : "barbarian"
+  }, {
+    "paragonLevel" : 252,
+    "seasonal" : false,
+    "name" : "Ruuustie",
+    "id" : 57760999,
+    "level" : 56,
+    "hardcore" : true,
+    "last-updated" : 1427560765,
+    "gender" : 0,
+    "dead" : false,
+    "class" : "monk"
+  }, {
+    "paragonLevel" : 515,
+    "seasonal" : true,
+    "name" : "WOoP",
+    "id" : 59270496,
+    "level" : 70,
+    "hardcore" : false,
+    "last-updated" : 1430081150,
+    "gender" : 1,
+    "dead" : false,
+    "class" : "monk"
+  }, {
+    "paragonLevel" : 515,
+    "seasonal" : true,
+    "name" : "HolyCow",
+    "id" : 61018587,
+    "level" : 65,
+    "hardcore" : false,
+    "last-updated" : 1431691056,
+    "gender" : 1,
+    "dead" : false,
+    "class" : "crusader"
   } ],
-  "lastHeroPlayed" : 55959438,
-  "lastUpdated" : 1424992291,
+  "lastHeroPlayed" : 58287316,
+  "lastUpdated" : 1431810750,
   "kills" : {
-    "monsters" : 819079,
-    "elites" : 41128,
-    "hardcoreMonsters" : 345517
+    "monsters" : 1543907,
+    "elites" : 70159,
+    "hardcoreMonsters" : 478314
   },
   "highestHardcoreLevel" : 70,
   "timePlayed" : {
-    "barbarian" : 0.661,
-    "crusader" : 0.509,
-    "demon-hunter" : 0.56,
-    "monk" : 0.339,
-    "witch-doctor" : 0.692,
-    "wizard" : 1.0
+    "barbarian" : 0.462,
+    "crusader" : 0.387,
+    "demon-hunter" : 1.0,
+    "monk" : 0.243,
+    "witch-doctor" : 0.437,
+    "wizard" : 0.642
   },
   "progression" : {
     "act1" : true,
@@ -106,6 +150,442 @@
     "act5" : true
   },
   "fallenHeroes" : [ {
+    "name" : "HUEHUEII",
+    "level" : 70,
+    "stats" : {
+      "life" : 0,
+      "damage" : 815627.0,
+      "toughness" : 1.29138E7,
+      "healing" : 328029.0,
+      "armor" : 0,
+      "strength" : 9080,
+      "dexterity" : 77,
+      "vitality" : 5668,
+      "intelligence" : 77,
+      "physicalResist" : 0,
+      "fireResist" : 799,
+      "coldResist" : 954,
+      "lightningResist" : 942,
+      "poisonResist" : 1219,
+      "arcaneResist" : 799,
+      "damageIncrease" : 0.0,
+      "critChance" : 0.0,
+      "damageReduction" : 0.0
+    },
+    "items" : {
+      "head" : {
+        "id" : "Unique_Helm_Set_10_x1",
+        "name" : "Helm of Akkhan",
+        "icon" : "unique_helm_set_10_x1_demonhunter_male",
+        "displayColor" : "green",
+        "tooltipParams" : "item/CpMBCISTt9ADEgcIBBXv-kGJHYGBxsQdZiMGUB3ZnLeOHZsGAMsdcYt38B0do43EMIsSOIMDQABIAVASWARgsANqKwoMCAAQ16r_9IKAgKAEEhsImLaysgcSBwgEFYUnlLEwjxI4AEABWASQAQKAAUaNAc1y6xOQAQKlAdmct46tAeYV2w21AX_5Tl24AYCinv0OwAECGKGU8OsOUApYAqABoZTw6w6gAeGVgOEOoAGAl_L3AaABnovalAagAfLI_6sP",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        },
+        "transmogItem" : {
+          "id" : "Unique_Helm_002_p1",
+          "name" : "Leoric's Crown",
+          "icon" : "unique_helm_002_p1_demonhunter_male",
+          "displayColor" : "orange",
+          "tooltipParams" : "item/leorics-crown"
+        },
+        "setItemsEquipped" : [ "Unique_Chest_Set_10_x1", "Unique_Pants_Set_10_x1", "Unique_Gloves_Set_10_x1", "Unique_Helm_Set_10_x1", "Unique_Shoulder_Set_10_x1" ]
+      },
+      "torso" : {
+        "id" : "Unique_Chest_Set_10_x1",
+        "name" : "Breastplate of Akkhan",
+        "icon" : "unique_chest_set_10_x1_demonhunter_male",
+        "displayColor" : "green",
+        "tooltipParams" : "item/CugBCJWF88cGEgcIBBXARX4PHazTmTkd08wHYx07J28kHUNORFEdcyMGUB2pIDa6MIsSOL0CQABIAVASWARgvQJqKwoMCAAQz6j_9IKAgKAEEhsI75vjhQsSBwgEFWv1i18wjxI4AEABWASQAQJqKgoMCAAQian_9IKAgKAEEhoIib3vIhIHCAQVavWLXzCLEjgAQAFYBJABAmorCgwIABCaqf_0goCAoAQSGwjp55uRBhIHCAQVavWLXzCLEjgAQAFYBJABAoABRo0BmLhsD5ABAqUBOydvJK0BOydvJLUBMSIZYLgBAMABAhiAl_L3AVAKWAKgAaGU8OsOoAHhlYDhDqABgJfy9wGgAZ6L2pQGoAHyyP-rDw",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        },
+        "transmogItem" : {
+          "id" : "Unique_Chest_Set_01_p1",
+          "name" : "Roland's Bearing",
+          "icon" : "unique_chest_set_01_p1_demonhunter_male",
+          "displayColor" : "green",
+          "tooltipParams" : "item/rolands-bearing",
+          "setItemsEquipped" : [ "Unique_Chest_Set_01_p1" ]
+        },
+        "setItemsEquipped" : [ "Unique_Chest_Set_10_x1", "Unique_Pants_Set_10_x1", "Unique_Gloves_Set_10_x1", "Unique_Helm_Set_10_x1", "Unique_Shoulder_Set_10_x1" ]
+      },
+      "feet" : {
+        "id" : "Unique_Boots_Set_01_p1",
+        "name" : "Roland's Stride",
+        "icon" : "unique_boots_set_01_p1_demonhunter_male",
+        "displayColor" : "green",
+        "tooltipParams" : "item/CmAI_vP9zwoSBwgEFWjlM9Adco4dIR2s05k5HTsnbyQd2Zy3jh1DTkRRHakgNrowixI4hQNAAEgBUBJYBGCyA4ABRpABAqUB2Zy3jq0B6-LkBbUBoEWbf7gBpPTu0wzAAQcYr-rg_AVQClgCoAGv6uD8BQ",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        },
+        "setItemsEquipped" : [ "Unique_Boots_Set_01_p1" ]
+      },
+      "hands" : {
+        "id" : "Unique_Gloves_Set_10_x1",
+        "name" : "Gauntlets of Akkhan",
+        "icon" : "unique_gloves_set_10_x1_demonhunter_male",
+        "displayColor" : "green",
+        "tooltipParams" : "item/CmYIz5iziAoSBwgEFTnyv3odgYHGxB1-VrMuHSCNN1QdmwYAyx3z1Ue0HXGLd_AwixI40AJAAEgBUBJYBGD3AoABRo0BEWWuepABAqUBII03VK0BmKeOwLUByVuSpLgB5PiX6AnAARQY8sj_qw9QClgCoAGhlPDrDqAB4ZWA4Q6gAYCX8vcBoAGei9qUBqAB8sj_qw8",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        },
+        "transmogItem" : {
+          "id" : "Unique_Gloves_Set_01_p1",
+          "name" : "Roland's Grasp",
+          "icon" : "unique_gloves_set_01_p1_demonhunter_male",
+          "displayColor" : "green",
+          "tooltipParams" : "item/rolands-grasp",
+          "setItemsEquipped" : [ "Unique_Gloves_Set_01_p1" ]
+        },
+        "setItemsEquipped" : [ "Unique_Chest_Set_10_x1", "Unique_Pants_Set_10_x1", "Unique_Gloves_Set_10_x1", "Unique_Helm_Set_10_x1", "Unique_Shoulder_Set_10_x1" ]
+      },
+      "shoulders" : {
+        "id" : "Unique_Shoulder_Set_10_x1",
+        "name" : "Pauldrons of Akkhan",
+        "icon" : "unique_shoulder_set_10_x1_demonhunter_male",
+        "displayColor" : "green",
+        "tooltipParams" : "item/CmYI4cHyuQESBwgEFY_674kdP_IJ2B1xi3fwHUNORFEduLwgeh07J28kHakgNrowixI4mAJAAEgBUBJYBGC5AoABRo0BZ23eiZABAqUBOydvJK0BOydvJLUB0vjIFbgB5q3XsQvAAQ0Y4ZWA4Q5QClgCoAGhlPDrDqAB4ZWA4Q6gAYCX8vcBoAGei9qUBqAB8sj_qw8",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        },
+        "transmogItem" : {
+          "id" : "Unique_Shoulder_Set_01_p1",
+          "name" : "Roland's Mantle",
+          "icon" : "unique_shoulder_set_01_p1_demonhunter_male",
+          "displayColor" : "green",
+          "tooltipParams" : "item/rolands-mantle",
+          "setItemsEquipped" : [ "Unique_Shoulder_Set_01_p1" ]
+        },
+        "setItemsEquipped" : [ "Unique_Chest_Set_10_x1", "Unique_Pants_Set_10_x1", "Unique_Gloves_Set_10_x1", "Unique_Helm_Set_10_x1", "Unique_Shoulder_Set_10_x1" ]
+      },
+      "legs" : {
+        "id" : "Unique_Pants_Set_10_x1",
+        "name" : "Cuisses of Akkhan",
+        "icon" : "unique_pants_set_10_x1_demonhunter_male",
+        "displayColor" : "green",
+        "tooltipParams" : "item/CsABCJW8v70BEgcIBBXPQksxHerVkj8dj5DKUB3egvzlHVry0sQdcYt38B0bXc9EMIsaOKoCQABIAVASWARgzQJqKwoMCAAQr8-K9YKAgKAEEhsIzp7h1woSBwgEFYQnlLEwixI4AEABWASQAQJqKwoMCAAQvJCD9YKAgKAEEhsIybfohgESBwgEFYQnlLEwixI4AEABWASQAQKAAUaNAae1OTGQAQKlAVry0sStAYQDoda1AZ-S1aW4AZCoj5gIwAEHGJ6L2pQGUApYAqABoZTw6w6gAeGVgOEOoAGAl_L3AaABnovalAagAfLI_6sP",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        },
+        "transmogItem" : {
+          "id" : "Unique_Pants_Set_01_p1",
+          "name" : "Roland's Determination",
+          "icon" : "unique_pants_set_01_p1_demonhunter_male",
+          "displayColor" : "green",
+          "tooltipParams" : "item/rolands-determination",
+          "setItemsEquipped" : [ "Unique_Pants_Set_01_p1" ]
+        },
+        "setItemsEquipped" : [ "Unique_Chest_Set_10_x1", "Unique_Pants_Set_10_x1", "Unique_Gloves_Set_10_x1", "Unique_Helm_Set_10_x1", "Unique_Shoulder_Set_10_x1" ]
+      },
+      "bracers" : {
+        "id" : "Unique_Bracer_103_x1",
+        "name" : "Reaper's Wraps",
+        "icon" : "unique_bracer_103_x1_demonhunter_male",
+        "displayColor" : "orange",
+        "tooltipParams" : "item/ClUI-JnN9goSBwgEFUDRWzkd59c4_h3mFdsNHTsnbyQdQ05EUR2pIDa6HXGLd_AwjxI4jwNAAFASWARgvAOQAQKlATsnbyStAVb8aBC4AYCPyssIwAEFGIDF3pUHUApYAg"
+      },
+      "mainHand" : {
+        "id" : "Unique_Sword_2H_007_x1",
+        "name" : "Blade of Prophecy",
+        "icon" : "unique_sword_2h_007_x1_demonhunter_male",
+        "displayColor" : "orange",
+        "tooltipParams" : "item/CowBCPOd-YkJEgcIBBX8SaXCHdy0ivsdZiMGUB2GkPzaHdDuaDEd0u_p7TCLEji3AkAAUBJYBGDbAmorCgwIABDDodvCgoCAoDISGwiAiqirBhIHCAQVI5aumDCPEjgAQAFYBJABAoABRo0BuLT3xJABAqUB0O5oMa0BrK8oYrUBPAIv8rgBiba3-QTAAQIYh9jV1QdQClgC",
+        "transmogItem" : {
+          "id" : "Unique_Sword_2H_102_x1",
+          "name" : "Cam's Rebuttal",
+          "icon" : "unique_sword_2h_102_x1_demonhunter_male",
+          "displayColor" : "orange",
+          "tooltipParams" : "item/cams-rebuttal"
+        }
+      },
+      "offHand" : {
+        "id" : "P1_CruShield_norm_unique_01",
+        "name" : "Frydehr's Wrath",
+        "icon" : "p1_crushield_norm_unique_01_demonhunter_male",
+        "displayColor" : "orange",
+        "tooltipParams" : "item/ClkIqKni4wwSBwgEFfRWP3YdgYHGxB2HcH1GHTX_kv8dOJ3kBB3z1Ue0MIsSOIUCQABQElgEYKQCgAFGkAECpQE4neQErQF-VrMutQFqm_P4uAGH-uX8DsABChjo2_rjDlAKWAI"
+      },
+      "waist" : {
+        "id" : "Unique_Belt_Set_02_x1",
+        "name" : "Krelm's Buff Belt",
+        "icon" : "unique_belt_set_02_x1_demonhunter_male",
+        "displayColor" : "green",
+        "tooltipParams" : "item/ClkIm_uFigsSBwgEFTGWOMsdG13PRB1nPuzkHVoZXWUdhAOh1h3q1ZI_MIsaOMwCQABQElgEYPMCgAFGkAECpQFaGV1lrQHegvzltQHAp0LUuAHVwKiuCsABAhidp7vMBlAKWAKgAZ2nu8wG",
+        "setItemsEquipped" : [ "Unique_Belt_Set_02_x1" ]
+      },
+      "rightFinger" : {
+        "id" : "Unique_Ring_107_x1",
+        "name" : "Ring of Royal Grandeur",
+        "icon" : "unique_ring_107_x1_demonhunter_male",
+        "displayColor" : "orange",
+        "tooltipParams" : "item/CooBCMacqpMMEgcIBBUlmHq7HazTmTkdOydvJB3Sn55EHX52VaEdqSA2ujCLEjjgAUAAUBJYBGD6AWowCgwIABDgoK_BgoCAgBQSIAjZ_p3ZBBIHCAQV6OWgwTCLEjgAQABQElgEkAEC2AEegAFGkAECpQHSn55ErQFmIwZQtQE2VV1EuAG8ksATwAEBGLWfq8gIUApYAg"
+      },
+      "leftFinger" : {
+        "id" : "Ring_25",
+        "name" : "Rampant Testimony",
+        "icon" : "ring_25_demonhunter_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CpMBCOKk-pMOEgcIBBU2VV1EHajWdfwdaGvZNB0CmefLHWYjBlAdww2c5R1KtflLIgsIABXJ_gEAGA4gGjCPEji9AkAAUBBYBGDiAmowCgwIABDLjKXkgYCA4BoSIAia5_W9CRIHCAQVzaOjwTCLEjgAQABQElgEkAEC2AEqkAECpQECmefLrQGdB5UkuAHL6-4PwAEHGOzU6sUIUApYAg"
+      },
+      "neck" : {
+        "id" : "Unique_Amulet_101_x1",
+        "name" : "Haunt of Vaxo",
+        "icon" : "unique_amulet_101_x1_demonhunter_male",
+        "displayColor" : "orange",
+        "tooltipParams" : "item/CosBCN7CkO0MEgcIBBUXyVtdHX-Oh8wdsMEJch2bBgDLHX5Wsy4dgYHGxDCLEjiMA0AAUBJYBGC6A2owCgwIABCz-NuugoCAwAoSIAjJ_dboAxIHCAQV7S-1wTCLEjgAQABQElgEkAEC2AEGgAFGkAECpQGbBgDLrQFmIwZQtQGwxURkuAH838GtCcABBRiupN7VC1AKWAI"
+      }
+    },
+    "kills" : {
+      "elites" : 1735
+    },
+    "hardcore" : true,
+    "death" : {
+      "killer" : 4089,
+      "time" : 1425743874,
+      "location" : 288454
+    },
+    "heroId" : 55959438,
+    "gender" : 1,
+    "class" : "crusader"
+  }, {
+    "name" : "FelixWillDie",
+    "level" : 70,
+    "stats" : {
+      "life" : 0,
+      "damage" : 745672.0,
+      "toughness" : 8906410.0,
+      "healing" : 125190.0,
+      "armor" : 0,
+      "strength" : 77,
+      "dexterity" : 77,
+      "vitality" : 4876,
+      "intelligence" : 8543,
+      "physicalResist" : 0,
+      "fireResist" : 1428,
+      "coldResist" : 1581,
+      "lightningResist" : 1786,
+      "poisonResist" : 1428,
+      "arcaneResist" : 1580,
+      "damageIncrease" : 0.0,
+      "critChance" : 0.0,
+      "damageReduction" : 0.0
+    },
+    "items" : {
+      "head" : {
+        "id" : "Unique_Helm_Set_06_x1",
+        "name" : "Firebird's Plume",
+        "icon" : "unique_helm_set_06_x1_demonhunter_male",
+        "displayColor" : "green",
+        "tooltipParams" : "item/CpMBCJXC0O4GEgcIBBW0LDOJHfRwB60dZiMGUB1nPuzkHZwGAMsd0IZp1x0_8gnYMIsaOOMCQABIAVASWARgvQNqKwoMCAAQpNy2u4KAgIAyEhsIxvGutggSBwgEFRif2KswjxI4AEABWASQAQKAAUaNATx8XxaQAQKlAWc-7OStAeYV2w21AX_5Tl24AY-A3MwDwAEDGJfN5uwOUARYAqABl83m7A6gAdfO9uEOoAHV7sr8BaAB3deP5QWgAajS45MG",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        },
+        "transmogItem" : {
+          "id" : "Unique_WizardHat_001_x1",
+          "name" : "Dark Mage's Shade",
+          "icon" : "unique_wizardhat_001_x1_demonhunter_male",
+          "displayColor" : "orange",
+          "tooltipParams" : "item/dark-mages-shade"
+        },
+        "setItemsEquipped" : [ "Unique_Pants_Set_06_x1", "Unique_Orb_Set_06_x1", "Unique_Shoulder_Set_06_x1", "Unique_Helm_Set_06_x1", "Unique_Boots_Set_06_x1" ]
+      },
+      "torso" : {
+        "id" : "Unique_Chest_006_x1",
+        "name" : "Cindercoat",
+        "icon" : "unique_chest_006_x1_demonhunter_male",
+        "displayColor" : "orange",
+        "tooltipParams" : "item/CuABCPW-ksoDEgcIBBXKeWxOHZuG9uIdQA1VCx1AWsNAHUNORFEdcYt38DCLEjj3AUAAUBJYBGDFAmorCgwIABC49bH_goCAgAgSGwi2wsT-BRIHCAQVhSeUsTCLEjgAQAFYBJABAmorCgwIABDA9bH_goCAgAgSGwjU1rCWAhIHCAQVhSeUsTCLEjgAQAFYBJABAmorCgwIABDjuvzWgYCAoBoSGwi7v57CCxIHCAQVhSeUsTCLEjgAQAFYBJABAoABRpABAqUBQFrDQK0BcyMGULUBMSIZYLgB0dTt1ArAAQQYlOfj5glQBFgC"
+      },
+      "feet" : {
+        "id" : "Unique_Boots_Set_06_x1",
+        "name" : "Firebird's Tarsi",
+        "icon" : "unique_boots_set_06_x1_demonhunter_male",
+        "displayColor" : "green",
+        "tooltipParams" : "item/Cl4IyNapUBIHCAQVVaQ20B3cO1NoHYQDodYdII03VB3r4uQFHdCGadcdrdOZOTCLGjjoAUAASAFQElgEYLQCgAFGkAECpQHcO1NorQHcO1NotQGgRZt_uAHLp6B7wAECGNXuyvwFUARYAqABl83m7A6gAdfO9uEOoAHV7sr8BaAB3deP5QWgAajS45MG",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        },
+        "setItemsEquipped" : [ "Unique_Pants_Set_06_x1", "Unique_Orb_Set_06_x1", "Unique_Shoulder_Set_06_x1", "Unique_Helm_Set_06_x1", "Unique_Boots_Set_06_x1" ]
+      },
+      "hands" : {
+        "id" : "Unique_Gloves_003_x1",
+        "name" : "Tasker and Theo",
+        "icon" : "unique_gloves_003_x1_demonhunter_male",
+        "displayColor" : "orange",
+        "tooltipParams" : "item/CmEIxIOwqQQSBwgEFcArSiIdcYt38B0QL8oqHZinjsAdfnZVoR3zcAetMIsSOOsBQABIAVASWARguAKAAUaNAf4jsXqQAQKlARAvyiqtAX5Wsy61AclbkqS4AZDlpeUOwAESGICv0aQEUARYAg",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        },
+        "transmogItem" : {
+          "id" : "Unique_Gloves_Set_06_x1",
+          "name" : "Firebird's Talons",
+          "icon" : "unique_gloves_set_06_x1_demonhunter_male",
+          "displayColor" : "green",
+          "tooltipParams" : "item/firebirds-talons",
+          "setItemsEquipped" : [ "Unique_Gloves_Set_06_x1" ]
+        }
+      },
+      "shoulders" : {
+        "id" : "Unique_Shoulder_Set_06_x1",
+        "name" : "Firebird's Pinions",
+        "icon" : "unique_shoulder_set_06_x1_demonhunter_male",
+        "displayColor" : "green",
+        "tooltipParams" : "item/CmAI3Ins1gISBwgEFVQs4Ykdm4b24h10RaeJHaLPFFYdQ05EUR2s05k5HUV7xt0wixI4wAFAAEgBUBJYBGCIAoABRpABAqUBos8UVq0BZz7s5LUB0vjIFbgB4c2g3grAAQMY18724Q5QBFgCoAGXzebsDqAB18724Q6gAdXuyvwFoAHd14_lBaABqNLjkwY",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        },
+        "setItemsEquipped" : [ "Unique_Pants_Set_06_x1", "Unique_Orb_Set_06_x1", "Unique_Shoulder_Set_06_x1", "Unique_Helm_Set_06_x1", "Unique_Boots_Set_06_x1" ]
+      },
+      "legs" : {
+        "id" : "Unique_Pants_Set_06_x1",
+        "name" : "Firebird's Down",
+        "icon" : "unique_pants_set_06_x1_demonhunter_male",
+        "displayColor" : "green",
+        "tooltipParams" : "item/CroBCOOrlukJEgcIBBWUdDwxHZuG9uIdj5DKUB07J28kHdqy8Ygd2T_Unx1xi3fwMIsSOIsCQABIAVASWARg2wJqKwoMCAAQ-b2wy4GAgKADEhsI-rb8oQYSBwgEFYQnlLEwixI4AEABWASQAQJqKwoMCAAQgL6wy4GAgKADEhsIi4qJsw4SBwgEFYQnlLEwixI4AEABWASQAQKAAUaQAQKlAdqy8YitAUNORFG1AZ-S1aW4Aa_0vuYJwAEBGKjS45MGUARYAqABl83m7A6gAdfO9uEOoAHV7sr8BaAB3deP5QWgAajS45MG",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        },
+        "setItemsEquipped" : [ "Unique_Pants_Set_06_x1", "Unique_Orb_Set_06_x1", "Unique_Shoulder_Set_06_x1", "Unique_Helm_Set_06_x1", "Unique_Boots_Set_06_x1" ]
+      },
+      "bracers" : {
+        "id" : "Unique_Bracer_003_x1",
+        "name" : "Slave Bonds",
+        "icon" : "unique_bracer_003_x1_demonhunter_male",
+        "displayColor" : "orange",
+        "tooltipParams" : "item/Cl4IwdiRzwQSBwgEFZ-oBjcdQ05EUR3mFdsNHT51eQUdseTqER3r4uQFHZuG9uIwixI4pgJAAFASWARg-QKAAUaQAQKlAT51eQWtAUANVQu1Adssysu4AZGZ_NYNwAEBGL6itfAGUARYAg"
+      },
+      "mainHand" : {
+        "id" : "Unique_Wand_102_x1",
+        "name" : "Serpent's Sparker",
+        "icon" : "unique_wand_102_x1_demonhunter_male",
+        "displayColor" : "orange",
+        "tooltipParams" : "item/CosBCMmC9L8NEgcIBBXaXC1xHUlOdf4dZiMGUB2bBgDLHZWx9vId83AHrTCLFjj7AUAAUBJYBGDJAmoqCgsIABCPjcTzgYCAIBIbCP7i390MEgcIBBUjlq6YMI8SOABAAVgEkAECgAFGjQG6TOpukAECpQFmIwZQrQGeT4PctQGe-EgFuAHWsdbiAcABBhi08-qSDlAEWAI",
+        "transmogItem" : {
+          "id" : "Unique_Wand_012_x1",
+          "name" : "Chantodo's Will",
+          "icon" : "unique_wand_012_x1_demonhunter_male",
+          "displayColor" : "green",
+          "tooltipParams" : "item/chantodos-will",
+          "setItemsEquipped" : [ "Unique_Wand_012_x1" ]
+        }
+      },
+      "offHand" : {
+        "id" : "Unique_Orb_Set_06_x1",
+        "name" : "Firebird's Eye",
+        "icon" : "unique_orb_set_06_x1_demonhunter_male",
+        "displayColor" : "green",
+        "tooltipParams" : "item/ClkIldm6iAwSBwgEFREKrtEd9z2KOB3yGKDgHbi8IHodnMKT9x3zcAetMIsSOMYCQABQElgEYJ0DgAFGkAECpQGcwpP3rQF-VrMutQHaw45xuAGwosHtD8ABAhjd14_lBVAEWAKgAZfN5uwOoAHXzvbhDqAB1e7K_AWgAd3Xj-UFoAGo0uOTBg",
+        "setItemsEquipped" : [ "Unique_Pants_Set_06_x1", "Unique_Orb_Set_06_x1", "Unique_Shoulder_Set_06_x1", "Unique_Helm_Set_06_x1", "Unique_Boots_Set_06_x1" ]
+      },
+      "waist" : {
+        "id" : "Unique_Belt_005_x1",
+        "name" : "Hellcat Waistguard",
+        "icon" : "unique_belt_005_x1_demonhunter_male",
+        "displayColor" : "orange",
+        "tooltipParams" : "item/CkgIiLj-5wMSBwgEFZmrjWkdG13PRB0_8gnYHfbkhogd3DtTaB2EA6HWHX52VaEwixo4kwJAAFASWARg5AKAAUaQAQK1AcCnQtQYsq7tmA1QBFgC"
+      },
+      "rightFinger" : {
+        "id" : "Unique_Ring_107_x1",
+        "name" : "Ring of Royal Grandeur",
+        "icon" : "unique_ring_107_x1_demonhunter_male",
+        "displayColor" : "orange",
+        "tooltipParams" : "item/CosBCJfF7MMEEgcIBBUlmHq7HT_yCdgdOydvJB3Sn55EHX52VaEdm4b24jCLEjjIAkAAUBJYBGCfA2owCgwIABCVmsXogICAgAwSIAj94MqbBBIHCAQVTry1wTCLEjgAQABQElgEkAEC2AEygAFGkAECpQHSn55ErQFmIwZQtQE2VV1EuAGMyLeuDsABFRi1n6vICFAEWAI"
+      },
+      "leftFinger" : {
+        "id" : "p2_Unique_Ring_Wizard_001",
+        "name" : "Halo of Arlyse",
+        "icon" : "p2_unique_ring_wizard_001_demonhunter_male",
+        "displayColor" : "orange",
+        "tooltipParams" : "item/CosBCKDN0sMPEgcIBBXHdWAZHR2jjcQdmKeOwB2L8XpCHWYjBlAdm4b24jCLEji3AkAAUBJYBGCMA2owCgwIABCz19mugoCAwAoSIAj27LytDhIHCAQVC4uiwTCLEjgAQABQElgEkAEC2AEygAFGkAECpQGL8XpCrQHmFdsNtQE2VV1EuAG0rtzWBsABEhiO14OWA1AEWAI"
+      },
+      "neck" : {
+        "id" : "Unique_Amulet_103_x1",
+        "name" : "Countess Julia's Cameo",
+        "icon" : "unique_amulet_103_x1_demonhunter_male",
+        "displayColor" : "orange",
+        "tooltipParams" : "item/CosBCMzt4eoMEgcIBBXZ4VxdHa3TmTkdZiMGUB2cBgDLHX52VaEd9HAHrTCLGjjrAUAAUBJYBGC4AmowCgwIABDtrK7BgoCAgBQSIAjGpvq0CRIHCAQVaf6ywTCLEjgAQABQElgEkAEC2AEygAFGkAECpQGcBgDLrQGwwQlytQGwxURkuAHA6vDNCcABDxiyh-fVC1AEWAI"
+      }
+    },
+    "kills" : {
+      "elites" : 5030
+    },
+    "hardcore" : true,
+    "death" : {
+      "killer" : 4541,
+      "time" : 1425653627,
+      "location" : 288685
+    },
+    "heroId" : 54745042,
+    "gender" : 1,
+    "class" : "wizard"
+  }, {
     "name" : "DittosII",
     "level" : 70,
     "stats" : {
@@ -135,15 +615,22 @@
         "icon" : "unique_voodoomask_001_x1_demonhunter_male",
         "displayColor" : "orange",
         "tooltipParams" : "item/CowBCJzonLkGEgcIBBWQaenNHawZlpYdmgYAyx0jfaABHfJwB60dOHXajDCLAjj4AkAASAFQElgEYPgCaikKDAgAEIqF5PeAgIDgCBIZCP2tzP8LEgcIBBWEJ5SxMI8SOABAAZABAIABQY0BfflOXZABAKUBOHXajK0BZiMGULUBmAD1JLgB9-va9wbAAQkY39m0oQZQBlgA",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        },
         "transmogItem" : {
           "id" : "Helm_206",
           "name" : "Archon Crown",
           "icon" : "helm_206_demonhunter_male",
           "displayColor" : "white",
-          "tooltipParams" : "item/archon-crown",
-          "craftedBy" : [ ]
-        },
-        "craftedBy" : [ ]
+          "tooltipParams" : "item/archon-crown"
+        }
       },
       "torso" : {
         "id" : "Unique_Chest_Set_09_x1",
@@ -151,175 +638,23 @@
         "icon" : "unique_chest_set_09_x1_witchdoctor_male",
         "displayColor" : "green",
         "tooltipParams" : "item/CuwBCPOrr54BEgcIBBWoHHEPHdLHMHsdX9EZGB31CKdkHYQDodYdcyMGUB3cO1NoMIsaOKMDQABIAVASWARgowNqKgoMCAAQmv3ijIKAgIA6EhoIpZGVIRIHCAQV1l22ejCPEjgAQAFYBJABAGorCgwIABCogeOMgoCAgDoSGwjC0PiXDRIHCAQV1V22ejCLEjgAQAFYBJABAGorCgwIABDIgeOMgoCAgDoSGwiArfW2ChIHCAQV1V22ejCLEjgAQAFYBJABAIABRo0BLyIZYJABAKUB9QinZK0BZz7s5LUBMSIZYLgBuJKa4w_AAQMY0PKI9wFQBlgAoAHQ8oj3AaAB7ubwkwY",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        },
         "transmogItem" : {
           "id" : "ChestArmor_206",
           "name" : "Archon Armor",
           "icon" : "chestarmor_206_demonhunter_male",
           "displayColor" : "white",
-          "tooltipParams" : "item/archon-armor",
-          "craftedBy" : [ {
-            "id" : "T11_Armor_Chest_Dex",
-            "slug" : "archon-armor-of-dexterity",
-            "name" : "Archon Armor of Dexterity",
-            "cost" : 150000,
-            "reagents" : [ {
-              "quantity" : 2,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 2,
-              "item" : {
-                "id" : "Crafting_Tier_04B",
-                "name" : "Exquisite Essence",
-                "icon" : "crafting_tier_04b_demonhunter_male",
-                "displayColor" : "blue",
-                "tooltipParams" : "item/exquisite-essence"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "ChestArmor_206",
-              "name" : "Archon Armor of Dexterity",
-              "icon" : "chestarmor_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-armor-of-dexterity"
-            }
-          }, {
-            "id" : "T11_Armor_Chest_Int",
-            "slug" : "archon-armor-of-intelligence",
-            "name" : "Archon Armor of Intelligence",
-            "cost" : 150000,
-            "reagents" : [ {
-              "quantity" : 2,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 2,
-              "item" : {
-                "id" : "Crafting_Tier_04B",
-                "name" : "Exquisite Essence",
-                "icon" : "crafting_tier_04b_demonhunter_male",
-                "displayColor" : "blue",
-                "tooltipParams" : "item/exquisite-essence"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "ChestArmor_206",
-              "name" : "Archon Armor of Intelligence",
-              "icon" : "chestarmor_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-armor-of-intelligence"
-            }
-          }, {
-            "id" : "T11_Armor_Chest_Str",
-            "slug" : "archon-armor-of-strength",
-            "name" : "Archon Armor of Strength",
-            "cost" : 150000,
-            "reagents" : [ {
-              "quantity" : 2,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 2,
-              "item" : {
-                "id" : "Crafting_Tier_04B",
-                "name" : "Exquisite Essence",
-                "icon" : "crafting_tier_04b_demonhunter_male",
-                "displayColor" : "blue",
-                "tooltipParams" : "item/exquisite-essence"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "ChestArmor_206",
-              "name" : "Archon Armor of Strength",
-              "icon" : "chestarmor_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-armor-of-strength"
-            }
-          }, {
-            "id" : "T11_Armor_Chest_Vit",
-            "slug" : "archon-armor-of-vitality",
-            "name" : "Archon Armor of Vitality",
-            "cost" : 150000,
-            "reagents" : [ {
-              "quantity" : 2,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 2,
-              "item" : {
-                "id" : "Crafting_Tier_04B",
-                "name" : "Exquisite Essence",
-                "icon" : "crafting_tier_04b_demonhunter_male",
-                "displayColor" : "blue",
-                "tooltipParams" : "item/exquisite-essence"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "ChestArmor_206",
-              "name" : "Archon Armor of Vitality",
-              "icon" : "chestarmor_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-armor-of-vitality"
-            }
-          } ]
+          "tooltipParams" : "item/archon-armor"
         },
-        "craftedBy" : [ ]
+        "setItemsEquipped" : [ "Unique_Pants_Set_09_x1", "Unique_Chest_Set_09_x1" ]
       },
       "feet" : {
         "id" : "Unique_Boots_Set_16_x1",
@@ -327,15 +662,23 @@
         "icon" : "unique_boots_set_16_x1_demonhunter_male",
         "displayColor" : "green",
         "tooltipParams" : "item/CmYIg9j5mQkSBwgEFda8SNAdm4b24h1DTkRRHTsnbyQdHJN7Rh1yjh0hHXGLd_AwixI48wJAAEgBUBJYBGDzAoABRo0BnkWbf5ABAKUBHJN7Rq0B6-LkBbUBoEWbf7gBzrHozArAAQMY04y6-wVQBlgAoAHTjLr7BaAB_vGZrA8",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        },
         "transmogItem" : {
           "id" : "Boots_206",
           "name" : "Archon Greaves",
           "icon" : "boots_206_demonhunter_male",
           "displayColor" : "white",
-          "tooltipParams" : "item/archon-greaves",
-          "craftedBy" : [ ]
+          "tooltipParams" : "item/archon-greaves"
         },
-        "craftedBy" : [ ]
+        "setItemsEquipped" : [ "Unique_Gloves_Set_16_x1", "Unique_Boots_Set_16_x1" ]
       },
       "hands" : {
         "id" : "Unique_Gloves_Set_16_x1",
@@ -343,175 +686,23 @@
         "icon" : "unique_gloves_set_16_x1_demonhunter_male",
         "displayColor" : "green",
         "tooltipParams" : "item/CmYIhYza-ggSBwgEFX88w3od83AHrR24vCB6HXRFp4kdflazLh1_jofMHay801MwixI4vQNAAEgBUBJYBGC9A4ABRo0Bx1uSpJABAKUBdEWnia0BmKeOwLUByVuSpLgB2ryB_AvAAQEY_vGZrA9QBlgAoAHTjLr7BaAB_vGZrA8",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        },
         "transmogItem" : {
           "id" : "Gloves_206",
           "name" : "Archon Gauntlets",
           "icon" : "gloves_206_demonhunter_male",
           "displayColor" : "white",
-          "tooltipParams" : "item/archon-gauntlets",
-          "craftedBy" : [ {
-            "id" : "T11_Armor_Gloves_Dex",
-            "slug" : "archon-gauntlets-of-dexterity",
-            "name" : "Archon Gauntlets of Dexterity",
-            "cost" : 50000,
-            "reagents" : [ {
-              "quantity" : 10,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 20,
-              "item" : {
-                "id" : "Crafting_Tier_04C",
-                "name" : "Iridescent Tear",
-                "icon" : "crafting_tier_04c_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/iridescent-tear"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "Gloves_206",
-              "name" : "Archon Gauntlets of Dexterity",
-              "icon" : "gloves_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-gauntlets-of-dexterity"
-            }
-          }, {
-            "id" : "T11_Armor_Gloves_Int",
-            "slug" : "archon-gauntlets-of-intelligence",
-            "name" : "Archon Gauntlets of Intelligence",
-            "cost" : 50000,
-            "reagents" : [ {
-              "quantity" : 10,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 20,
-              "item" : {
-                "id" : "Crafting_Tier_04C",
-                "name" : "Iridescent Tear",
-                "icon" : "crafting_tier_04c_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/iridescent-tear"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "Gloves_206",
-              "name" : "Archon Gauntlets of Intelligence",
-              "icon" : "gloves_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-gauntlets-of-intelligence"
-            }
-          }, {
-            "id" : "T11_Armor_Gloves_Str",
-            "slug" : "archon-gauntlets-of-strength",
-            "name" : "Archon Gauntlets of Strength",
-            "cost" : 50000,
-            "reagents" : [ {
-              "quantity" : 10,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 20,
-              "item" : {
-                "id" : "Crafting_Tier_04C",
-                "name" : "Iridescent Tear",
-                "icon" : "crafting_tier_04c_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/iridescent-tear"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "Gloves_206",
-              "name" : "Archon Gauntlets of Strength",
-              "icon" : "gloves_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-gauntlets-of-strength"
-            }
-          }, {
-            "id" : "T11_Armor_Gloves_Vit",
-            "slug" : "archon-gauntlets-of-vitality",
-            "name" : "Archon Gauntlets of Vitality",
-            "cost" : 50000,
-            "reagents" : [ {
-              "quantity" : 10,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 20,
-              "item" : {
-                "id" : "Crafting_Tier_04C",
-                "name" : "Iridescent Tear",
-                "icon" : "crafting_tier_04c_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/iridescent-tear"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "Gloves_206",
-              "name" : "Archon Gauntlets of Vitality",
-              "icon" : "gloves_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-gauntlets-of-vitality"
-            }
-          } ]
+          "tooltipParams" : "item/archon-gauntlets"
         },
-        "craftedBy" : [ ]
+        "setItemsEquipped" : [ "Unique_Gloves_Set_16_x1", "Unique_Boots_Set_16_x1" ]
       },
       "shoulders" : {
         "id" : "Unique_Shoulder_102_x1",
@@ -519,175 +710,22 @@
         "icon" : "unique_shoulder_102_x1_demonhunter_male",
         "displayColor" : "orange",
         "tooltipParams" : "item/CmAIwvLbOxIHCAQVFsCFjR3cO1NoHd6C_OUdhAOh1h3Sbx3qHRtdz0Qwixo4rgJAAEgBUBJYBGCuAoABRo0B0PjIFZABAKUB0m8d6q0BJ_tEIbUB0vjIFbgBzc_V0AzAAQcY0__Rpw5QBlgA",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        },
         "transmogItem" : {
           "id" : "Shoulders_206",
           "name" : "Archon Spaulders",
           "icon" : "shoulders_206_demonhunter_male",
           "displayColor" : "white",
-          "tooltipParams" : "item/archon-spaulders",
-          "craftedBy" : [ {
-            "id" : "T11_Armor_Shoulders_Dex",
-            "slug" : "archon-spaulders-of-dexterity",
-            "name" : "Archon Spaulders of Dexterity",
-            "cost" : 75000,
-            "reagents" : [ {
-              "quantity" : 5,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 10,
-              "item" : {
-                "id" : "Crafting_Tier_04B",
-                "name" : "Exquisite Essence",
-                "icon" : "crafting_tier_04b_demonhunter_male",
-                "displayColor" : "blue",
-                "tooltipParams" : "item/exquisite-essence"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "Shoulders_206",
-              "name" : "Archon Spaulders of Dexterity",
-              "icon" : "shoulders_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-spaulders-of-dexterity"
-            }
-          }, {
-            "id" : "T11_Armor_Shoulders_Int",
-            "slug" : "archon-spaulders-of-intelligence",
-            "name" : "Archon Spaulders of Intelligence",
-            "cost" : 75000,
-            "reagents" : [ {
-              "quantity" : 5,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 10,
-              "item" : {
-                "id" : "Crafting_Tier_04B",
-                "name" : "Exquisite Essence",
-                "icon" : "crafting_tier_04b_demonhunter_male",
-                "displayColor" : "blue",
-                "tooltipParams" : "item/exquisite-essence"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "Shoulders_206",
-              "name" : "Archon Spaulders of Intelligence",
-              "icon" : "shoulders_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-spaulders-of-intelligence"
-            }
-          }, {
-            "id" : "T11_Armor_Shoulders_Str",
-            "slug" : "archon-spaulders-of-strength",
-            "name" : "Archon Spaulders of Strength",
-            "cost" : 75000,
-            "reagents" : [ {
-              "quantity" : 5,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 10,
-              "item" : {
-                "id" : "Crafting_Tier_04B",
-                "name" : "Exquisite Essence",
-                "icon" : "crafting_tier_04b_demonhunter_male",
-                "displayColor" : "blue",
-                "tooltipParams" : "item/exquisite-essence"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "Shoulders_206",
-              "name" : "Archon Spaulders of Strength",
-              "icon" : "shoulders_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-spaulders-of-strength"
-            }
-          }, {
-            "id" : "T11_Armor_Shoulders_Vit",
-            "slug" : "archon-spaulders-of-vitality",
-            "name" : "Archon Spaulders of Vitality",
-            "cost" : 75000,
-            "reagents" : [ {
-              "quantity" : 5,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 10,
-              "item" : {
-                "id" : "Crafting_Tier_04B",
-                "name" : "Exquisite Essence",
-                "icon" : "crafting_tier_04b_demonhunter_male",
-                "displayColor" : "blue",
-                "tooltipParams" : "item/exquisite-essence"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "Shoulders_206",
-              "name" : "Archon Spaulders of Vitality",
-              "icon" : "shoulders_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-spaulders-of-vitality"
-            }
-          } ]
-        },
-        "craftedBy" : [ ]
+          "tooltipParams" : "item/archon-spaulders"
+        }
       },
       "legs" : {
         "id" : "Unique_Pants_Set_09_x1",
@@ -695,15 +733,23 @@
         "icon" : "unique_pants_set_09_x1_witchdoctor_male",
         "displayColor" : "green",
         "tooltipParams" : "item/CsABCKLe558MEgcIBBW3GT4xHdk_1J8dcYt38B0gjTdUHTsnbyQdj5DKUB2bhvbiMIsSOJ4CQABIAVASWARgngJqKwoMCAAQpYDjjIKAgIA6EhsIyO3PkgkSBwgEFdZdtnowixI4AEABWASQAQBqKwoMCAAQtYDjjIKAgIA6EhsIxoG44QUSBwgEFdZdtnowixI4AEABWASQAQCAAUaNAZ2S1aWQAQClASCNN1StAUNORFG1AZ-S1aW4Aeu88foEwAEFGO7m8JMGUAZYAKAB0PKI9wGgAe7m8JMG",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        },
         "transmogItem" : {
           "id" : "Pants_206",
           "name" : "Archon Faulds",
           "icon" : "pants_206_demonhunter_male",
           "displayColor" : "white",
-          "tooltipParams" : "item/archon-faulds",
-          "craftedBy" : [ ]
+          "tooltipParams" : "item/archon-faulds"
         },
-        "craftedBy" : [ ]
+        "setItemsEquipped" : [ "Unique_Pants_Set_09_x1", "Unique_Chest_Set_09_x1" ]
       },
       "bracers" : {
         "id" : "Unique_Bracer_Set_12_x1",
@@ -711,7 +757,7 @@
         "icon" : "unique_bracer_set_12_x1_demonhunter_male",
         "displayColor" : "green",
         "tooltipParams" : "item/Cl4I5KzG6gMSBwgEFXpPdmodco4dIR1DTkRRHTsnbyQdII03VB2svNNTHZuG9uIwixI4iAJAAFASWARgiAKAAUaQAQClASCNN1StAeYV2w21Adssysu4AZXC8uYHwAECGPS9sqcNUAZYAKAB9L2ypw0",
-        "craftedBy" : [ ]
+        "setItemsEquipped" : [ "Unique_Bracer_Set_12_x1" ]
       },
       "mainHand" : {
         "id" : "Unique_CeremonialDagger_011_x1",
@@ -724,127 +770,9 @@
           "name" : "Last Breath",
           "icon" : "unique_ceremonialdagger_008_x1_demonhunter_male",
           "displayColor" : "orange",
-          "tooltipParams" : "item/last-breath",
-          "craftedBy" : [ ]
+          "tooltipParams" : "item/last-breath"
         },
-        "recipe" : {
-          "id" : "T12_Legendary_Set_Hallowed_CeremonialKnife_X1",
-          "slug" : "hallowed-sufferance",
-          "name" : "Hallowed Sufferance",
-          "cost" : 64800,
-          "reagents" : [ {
-            "quantity" : 40,
-            "item" : {
-              "id" : "Crafting_AssortedParts_01",
-              "name" : "Reusable Parts",
-              "icon" : "crafting_assortedparts_01_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/reusable-parts"
-            }
-          }, {
-            "quantity" : 38,
-            "item" : {
-              "id" : "Crafting_Magic_01",
-              "name" : "Arcane Dust",
-              "icon" : "crafting_magic_01_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/arcane-dust"
-            }
-          }, {
-            "quantity" : 30,
-            "item" : {
-              "id" : "Crafting_Rare_01",
-              "name" : "Veiled Crystal",
-              "icon" : "crafting_rare_01_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/veiled-crystal"
-            }
-          }, {
-            "quantity" : 2,
-            "item" : {
-              "id" : "Crafting_Legendary_01",
-              "name" : "Forgotten Soul",
-              "icon" : "crafting_legendary_01_demonhunter_male",
-              "displayColor" : "orange",
-              "tooltipParams" : "item/forgotten-soul"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Looted_Reagent_01",
-              "name" : "Death's Breath",
-              "icon" : "crafting_looted_reagent_01_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/deaths-breath"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Unique_CeremonialDagger_011_x1",
-            "name" : "Hallowed Sufferance",
-            "icon" : "unique_ceremonialdagger_011_x1_demonhunter_male",
-            "displayColor" : "green",
-            "tooltipParams" : "recipe/hallowed-sufferance"
-          }
-        },
-        "craftedBy" : [ {
-          "id" : "T12_Legendary_Set_Hallowed_CeremonialKnife_X1",
-          "slug" : "hallowed-sufferance",
-          "name" : "Hallowed Sufferance",
-          "cost" : 64800,
-          "reagents" : [ {
-            "quantity" : 40,
-            "item" : {
-              "id" : "Crafting_AssortedParts_01",
-              "name" : "Reusable Parts",
-              "icon" : "crafting_assortedparts_01_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/reusable-parts"
-            }
-          }, {
-            "quantity" : 38,
-            "item" : {
-              "id" : "Crafting_Magic_01",
-              "name" : "Arcane Dust",
-              "icon" : "crafting_magic_01_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/arcane-dust"
-            }
-          }, {
-            "quantity" : 30,
-            "item" : {
-              "id" : "Crafting_Rare_01",
-              "name" : "Veiled Crystal",
-              "icon" : "crafting_rare_01_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/veiled-crystal"
-            }
-          }, {
-            "quantity" : 2,
-            "item" : {
-              "id" : "Crafting_Legendary_01",
-              "name" : "Forgotten Soul",
-              "icon" : "crafting_legendary_01_demonhunter_male",
-              "displayColor" : "orange",
-              "tooltipParams" : "item/forgotten-soul"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Looted_Reagent_01",
-              "name" : "Death's Breath",
-              "icon" : "crafting_looted_reagent_01_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/deaths-breath"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Unique_CeremonialDagger_011_x1",
-            "name" : "Hallowed Sufferance",
-            "icon" : "unique_ceremonialdagger_011_x1_demonhunter_male",
-            "displayColor" : "green",
-            "tooltipParams" : "recipe/hallowed-sufferance"
-          }
-        } ]
+        "setItemsEquipped" : [ "Unique_CeremonialDagger_011_x1" ]
       },
       "offHand" : {
         "id" : "Unique_Mojo_009_x1",
@@ -858,41 +786,36 @@
           "icon" : "unique_mojo_011_x1_demonhunter_male",
           "displayColor" : "green",
           "tooltipParams" : "item/zunimassas-string-of-skulls",
-          "craftedBy" : [ ]
-        },
-        "craftedBy" : [ ]
+          "setItemsEquipped" : [ "Unique_Mojo_011_x1" ]
+        }
       },
       "waist" : {
         "id" : "Unique_Belt_009_x1",
         "name" : "The Witching Hour",
         "icon" : "unique_belt_009_x1_demonhunter_male",
         "displayColor" : "orange",
-        "tooltipParams" : "item/Cl4I2ruh2goSBwgEFR3dj2kdmKeOwB1-dlWhHSCNN1Qdm4b24h1Fe8bdHXGLd_AwixI4rgJAAFASWARgrgKAAUaQAQClASCNN1StAWc-7OS1AcCnQtS4Ab7FhcsKwAECGLr0_pgNUAZYAA",
-        "craftedBy" : [ ]
+        "tooltipParams" : "item/Cl4I2ruh2goSBwgEFR3dj2kdmKeOwB1-dlWhHSCNN1Qdm4b24h1Fe8bdHXGLd_AwixI4rgJAAFASWARgrgKAAUaQAQClASCNN1StAWc-7OS1AcCnQtS4Ab7FhcsKwAECGLr0_pgNUAZYAA"
       },
       "rightFinger" : {
         "id" : "Unique_Ring_101_x1",
         "name" : "The Tall Man's Finger",
         "icon" : "unique_ring_101_x1_demonhunter_male",
         "displayColor" : "orange",
-        "tooltipParams" : "item/CosBCOG7_5UNEgcIBBXfTXe7HUu1-UsdbcQFEh24vCB6HRAvyiod3DtTaDCLGjipAkAAUBJYBGCpAmowCgwIABD0sd-MgoCAgDoSIAi3upbhAxIHCAQVp-WxwTCLEjgAQABQElgEkAEA2AEYgAFGkAEApQFtxAUSrQFmIwZQtQE2VV1EuAH1n-rzD8ABAhjByMXICFAGWAA",
-        "craftedBy" : [ ]
+        "tooltipParams" : "item/CosBCOG7_5UNEgcIBBXfTXe7HUu1-UsdbcQFEh24vCB6HRAvyiod3DtTaDCLGjipAkAAUBJYBGCpAmowCgwIABD0sd-MgoCAgDoSIAi3upbhAxIHCAQVp-WxwTCLEjgAQABQElgEkAEA2AEYgAFGkAEApQFtxAUSrQFmIwZQtQE2VV1EuAH1n-rzD8ABAhjByMXICFAGWAA"
       },
       "leftFinger" : {
         "id" : "Unique_Ring_022_x1",
         "name" : "Skull Grasp",
         "icon" : "unique_ring_022_x1_demonhunter_male",
         "displayColor" : "orange",
-        "tooltipParams" : "item/CpABCOiBvd4JEgcIBBWh4ka5Hdk_1J8dHaONxB1DTkRRHX52VaEd5hXbDR2bhvbiMIsSOPQCQABQElgEYPQCajAKDAgAEPCD-KyCgIDgExIgCKi7xOQOEgcIBBULi6LBMIsSOABAAFASWASQAQDYARSAAUaQAQClAX52VaGtAWYjBlC1ATZVXUS4AevkoKQOwAEEGL31yOsIUAZYAA",
-        "craftedBy" : [ ]
+        "tooltipParams" : "item/CpABCOiBvd4JEgcIBBWh4ka5Hdk_1J8dHaONxB1DTkRRHX52VaEd5hXbDR2bhvbiMIsSOPQCQABQElgEYPQCajAKDAgAEPCD-KyCgIDgExIgCKi7xOQOEgcIBBULi6LBMIsSOABAAFASWASQAQDYARSAAUaQAQClAX52VaGtAWYjBlC1ATZVXUS4AevkoKQOwAEEGL31yOsIUAZYAA"
       },
       "neck" : {
         "id" : "Unique_Amulet_001_x1",
         "name" : "The Flavor of Time",
         "icon" : "unique_amulet_001_x1_demonhunter_male",
         "displayColor" : "orange",
-        "tooltipParams" : "item/CpABCLzNj-MKEgcIBBV2oAZbHW4Xx3sdfnZVoR2cBgDLHbDBCXId6-LkBR24vCB6MIsaONgCQABQElgEYNgCajAKDAgAEOP7saOBgIDgERIgCOr29pQFEgcIBBWHWaDBMIsSOABAAFASWASQAQDYARaAAUaQAQClAevi5AWtAWYjBlC1AbDFRGS4AdeAufcLwAEDGOyBtbALUAZYAA",
-        "craftedBy" : [ ]
+        "tooltipParams" : "item/CpABCLzNj-MKEgcIBBV2oAZbHW4Xx3sdfnZVoR2cBgDLHbDBCXId6-LkBR24vCB6MIsaONgCQABQElgEYNgCajAKDAgAEOP7saOBgIDgERIgCOr29pQFEgcIBBWHWaDBMIsSOABAAFASWASQAQDYARaAAUaQAQClAevi5AWtAWYjBlC1AbDFRGS4AdeAufcLwAEDGOyBtbALUAZYAA"
       }
     },
     "kills" : {
@@ -907,1082 +830,6 @@
     "heroId" : 44094360,
     "gender" : 0,
     "class" : "witch-doctor"
-  }, {
-    "name" : "CrazyNewbie",
-    "level" : 58,
-    "stats" : {
-      "life" : 0,
-      "damage" : 26688.0,
-      "toughness" : 303194.0,
-      "healing" : 298.6,
-      "armor" : 0,
-      "strength" : 65,
-      "dexterity" : 65,
-      "vitality" : 2545,
-      "intelligence" : 2935,
-      "physicalResist" : 0,
-      "fireResist" : 391,
-      "coldResist" : 332,
-      "lightningResist" : 368,
-      "poisonResist" : 332,
-      "arcaneResist" : 400,
-      "damageIncrease" : 0.0,
-      "critChance" : 0.0,
-      "damageReduction" : 0.0
-    },
-    "items" : {
-      "head" : {
-        "id" : "Unique_WizardHat_101_x1",
-        "name" : "Archmage's Vicalyke",
-        "icon" : "unique_wizardhat_101_x1_demonhunter_male",
-        "displayColor" : "orange",
-        "tooltipParams" : "item/CnYIu72NzQMSBwgEFd2ktBgd2Vx5XR06ocGrHc13yVAdlQYAyx3tcAetMIsCOLsCQABIDFASWARg6wJqKQoMCAAQurPL9oCAgKAqEhkIj4CvpAgSBwgEFUn1i18wjQI4AEABkAEAgAEqjQF9-U5dkAEAtQFAraRoGLqTpYsDUARYAg",
-        "transmogItem" : {
-          "id" : "Helm_206",
-          "name" : "Archon Crown",
-          "icon" : "helm_206_demonhunter_male",
-          "displayColor" : "white",
-          "tooltipParams" : "item/archon-crown",
-          "craftedBy" : [ ]
-        },
-        "craftedBy" : [ ]
-      },
-      "torso" : {
-        "id" : "ChestArmor_103",
-        "name" : "Carapace Stand",
-        "icon" : "chestarmor_103_wizard_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CqMBCJ2Dtt8OEgcIBBXrHRlgHdSRbT0dj5DKUB18WburHWEahWEdScHpQSILCAEVb0IDABgmIBgwiQI4tARAAEgMUA5g_wRqKQoMCAAQkpquz4CAgIAyEhkIvtDclwcSBwgEFbZdtnowjQI4AEABkAEAaikKDAgAEIiOhb2AgICgCxIZCOzym_UEEgcIBBW1XbZ6MIkCOABAAZABAI0BLyIZYJABABjW98iBDFAEWAI",
-        "transmogItem" : {
-          "id" : "ChestArmor_206",
-          "name" : "Archon Armor",
-          "icon" : "chestarmor_206_demonhunter_male",
-          "displayColor" : "white",
-          "tooltipParams" : "item/archon-armor",
-          "craftedBy" : [ {
-            "id" : "T11_Armor_Chest_Dex",
-            "slug" : "archon-armor-of-dexterity",
-            "name" : "Archon Armor of Dexterity",
-            "cost" : 150000,
-            "reagents" : [ {
-              "quantity" : 2,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 2,
-              "item" : {
-                "id" : "Crafting_Tier_04B",
-                "name" : "Exquisite Essence",
-                "icon" : "crafting_tier_04b_demonhunter_male",
-                "displayColor" : "blue",
-                "tooltipParams" : "item/exquisite-essence"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "ChestArmor_206",
-              "name" : "Archon Armor of Dexterity",
-              "icon" : "chestarmor_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-armor-of-dexterity"
-            }
-          }, {
-            "id" : "T11_Armor_Chest_Int",
-            "slug" : "archon-armor-of-intelligence",
-            "name" : "Archon Armor of Intelligence",
-            "cost" : 150000,
-            "reagents" : [ {
-              "quantity" : 2,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 2,
-              "item" : {
-                "id" : "Crafting_Tier_04B",
-                "name" : "Exquisite Essence",
-                "icon" : "crafting_tier_04b_demonhunter_male",
-                "displayColor" : "blue",
-                "tooltipParams" : "item/exquisite-essence"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "ChestArmor_206",
-              "name" : "Archon Armor of Intelligence",
-              "icon" : "chestarmor_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-armor-of-intelligence"
-            }
-          }, {
-            "id" : "T11_Armor_Chest_Str",
-            "slug" : "archon-armor-of-strength",
-            "name" : "Archon Armor of Strength",
-            "cost" : 150000,
-            "reagents" : [ {
-              "quantity" : 2,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 2,
-              "item" : {
-                "id" : "Crafting_Tier_04B",
-                "name" : "Exquisite Essence",
-                "icon" : "crafting_tier_04b_demonhunter_male",
-                "displayColor" : "blue",
-                "tooltipParams" : "item/exquisite-essence"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "ChestArmor_206",
-              "name" : "Archon Armor of Strength",
-              "icon" : "chestarmor_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-armor-of-strength"
-            }
-          }, {
-            "id" : "T11_Armor_Chest_Vit",
-            "slug" : "archon-armor-of-vitality",
-            "name" : "Archon Armor of Vitality",
-            "cost" : 150000,
-            "reagents" : [ {
-              "quantity" : 2,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 2,
-              "item" : {
-                "id" : "Crafting_Tier_04B",
-                "name" : "Exquisite Essence",
-                "icon" : "crafting_tier_04b_demonhunter_male",
-                "displayColor" : "blue",
-                "tooltipParams" : "item/exquisite-essence"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "ChestArmor_206",
-              "name" : "Archon Armor of Vitality",
-              "icon" : "chestarmor_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-armor-of-vitality"
-            }
-          } ]
-        },
-        "craftedBy" : [ ]
-      },
-      "feet" : {
-        "id" : "Boots_201",
-        "name" : "Courier Grant",
-        "icon" : "boots_201_wizard_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkwI_rrAfhIHCAQVmUWbfx1W_CZIHcMEtzgd_sN0th3lktwIHW-Ld_AiCwgBFXZCAwAYLCAIMIkCOKgEQABIDFAOYPIEjQGeRZt_kAEAGLKW2vkPUARYAg",
-        "transmogItem" : {
-          "id" : "Boots_206",
-          "name" : "Archon Greaves",
-          "icon" : "boots_206_demonhunter_male",
-          "displayColor" : "white",
-          "tooltipParams" : "item/archon-greaves",
-          "craftedBy" : [ ]
-        },
-        "craftedBy" : [ ]
-      },
-      "hands" : {
-        "id" : "Gloves_201",
-        "name" : "Forge Trial",
-        "icon" : "gloves_201_wizard_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkoIsuzXjAUSBwgEFcJbkqQd73AHrR2XBgDLHdOPo1wd_18tsSILCAEVdUIDABgSIAowiwI4owNAAEgMUAxYBGDeA40Bx1uSpJABABj7kO22C1AEWAI",
-        "transmogItem" : {
-          "id" : "Gloves_206",
-          "name" : "Archon Gauntlets",
-          "icon" : "gloves_206_demonhunter_male",
-          "displayColor" : "white",
-          "tooltipParams" : "item/archon-gauntlets",
-          "craftedBy" : [ {
-            "id" : "T11_Armor_Gloves_Dex",
-            "slug" : "archon-gauntlets-of-dexterity",
-            "name" : "Archon Gauntlets of Dexterity",
-            "cost" : 50000,
-            "reagents" : [ {
-              "quantity" : 10,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 20,
-              "item" : {
-                "id" : "Crafting_Tier_04C",
-                "name" : "Iridescent Tear",
-                "icon" : "crafting_tier_04c_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/iridescent-tear"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "Gloves_206",
-              "name" : "Archon Gauntlets of Dexterity",
-              "icon" : "gloves_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-gauntlets-of-dexterity"
-            }
-          }, {
-            "id" : "T11_Armor_Gloves_Int",
-            "slug" : "archon-gauntlets-of-intelligence",
-            "name" : "Archon Gauntlets of Intelligence",
-            "cost" : 50000,
-            "reagents" : [ {
-              "quantity" : 10,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 20,
-              "item" : {
-                "id" : "Crafting_Tier_04C",
-                "name" : "Iridescent Tear",
-                "icon" : "crafting_tier_04c_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/iridescent-tear"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "Gloves_206",
-              "name" : "Archon Gauntlets of Intelligence",
-              "icon" : "gloves_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-gauntlets-of-intelligence"
-            }
-          }, {
-            "id" : "T11_Armor_Gloves_Str",
-            "slug" : "archon-gauntlets-of-strength",
-            "name" : "Archon Gauntlets of Strength",
-            "cost" : 50000,
-            "reagents" : [ {
-              "quantity" : 10,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 20,
-              "item" : {
-                "id" : "Crafting_Tier_04C",
-                "name" : "Iridescent Tear",
-                "icon" : "crafting_tier_04c_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/iridescent-tear"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "Gloves_206",
-              "name" : "Archon Gauntlets of Strength",
-              "icon" : "gloves_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-gauntlets-of-strength"
-            }
-          }, {
-            "id" : "T11_Armor_Gloves_Vit",
-            "slug" : "archon-gauntlets-of-vitality",
-            "name" : "Archon Gauntlets of Vitality",
-            "cost" : 50000,
-            "reagents" : [ {
-              "quantity" : 10,
-              "item" : {
-                "id" : "Crafting_Tier_04A",
-                "name" : "Common Debris",
-                "icon" : "crafting_tier_04a_demonhunter_male",
-                "displayColor" : "white",
-                "tooltipParams" : "item/common-debris"
-              }
-            }, {
-              "quantity" : 20,
-              "item" : {
-                "id" : "Crafting_Tier_04C",
-                "name" : "Iridescent Tear",
-                "icon" : "crafting_tier_04c_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/iridescent-tear"
-              }
-            }, {
-              "quantity" : 1,
-              "item" : {
-                "id" : "Crafting_Demonic_Reagent",
-                "name" : "Demonic Essence",
-                "icon" : "crafting_demonic_reagent_demonhunter_male",
-                "displayColor" : "yellow",
-                "tooltipParams" : "item/demonic-essence"
-              }
-            } ],
-            "itemProduced" : {
-              "id" : "Gloves_206",
-              "name" : "Archon Gauntlets of Vitality",
-              "icon" : "gloves_206_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "recipe/archon-gauntlets-of-vitality"
-            }
-          } ]
-        },
-        "craftedBy" : [ ]
-      },
-      "shoulders" : {
-        "id" : "Shoulders_202",
-        "name" : "Magnus Trophy",
-        "icon" : "shoulders_202_wizard_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkwImrGs-g4SBwgEFcz4yBUd_sN0th1dRUW7HTRH5xgdl7GDzR1wi3fwHe2GrzEiCwgBFXZCAwAYDCAOMIkCOKkDQABIElAQYOYDkAEAGJjjx9wCUARYAg",
-        "craftedBy" : [ {
-          "id" : "T08_Armor_Shoulders",
-          "slug" : "resplendent-espaliers",
-          "name" : "Resplendent Espaliers",
-          "cost" : 7200,
-          "reagents" : [ {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Shoulders_202",
-            "name" : "Resplendent Espaliers",
-            "icon" : "shoulders_202_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/resplendent-espaliers"
-          }
-        } ]
-      },
-      "legs" : {
-        "id" : "Pants_104",
-        "name" : "Runner's Chasm",
-        "icon" : "pants_104_wizard_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CqMBCLiz2dMGEgcIBBVajtWlHdXG-fkdvQ4YMR2PkMpQHRVHysIdb4t38CILCAEViEIDABgCIBYwiQI4jwRAAEgMUA5g1gRqKQoMCAAQio6FvYCAgKALEhkIuvfE1A4SBwgEFbVdtnowiQI4AEABkAEAaikKDAgAEJaOhb2AgICgCxIZCICw8bAMEgcIBBW1XbZ6MIkCOABAAZABAI0BnZLVpZABABjLxtOiC1AEWAI",
-        "transmogItem" : {
-          "id" : "Pants_206",
-          "name" : "Archon Faulds",
-          "icon" : "pants_206_demonhunter_male",
-          "displayColor" : "white",
-          "tooltipParams" : "item/archon-faulds",
-          "craftedBy" : [ ]
-        },
-        "craftedBy" : [ ]
-      },
-      "bracers" : {
-        "id" : "Unique_Bracer_102_x1",
-        "name" : "Ancient Parthan Defenders",
-        "icon" : "unique_bracer_102_x1_demonhunter_male",
-        "displayColor" : "orange",
-        "tooltipParams" : "item/CkMIhZ2d6QMSBwgEFd9EWzkdCW8vux1rNsAxHf7DdLYdP6KZQR1W_CZIMIsCOJkCQABQElgEYMUCgAEwkAEAtQGWKMrLGL6T2pUHUARYAg",
-        "craftedBy" : [ ]
-      },
-      "mainHand" : {
-        "id" : "Unique_Wand_006_x1",
-        "name" : "Blackhand Key",
-        "icon" : "unique_wand_006_x1_demonhunter_male",
-        "displayColor" : "orange",
-        "tooltipParams" : "item/Cl0Iks2XURIHCAQVvWXabh3bVVHBHZgGAMsd8HAHrR3yGKDgHZCx9vIdLRTF4jCLAjjwAUAAUBJYBGCeAoABOZABAKUBLRTF4q0BegztbLUBXfRIBbgB0KiPxwnAAQMY-pbT7Q1QBFgC",
-        "craftedBy" : [ ]
-      },
-      "offHand" : {
-        "id" : "Orb_201",
-        "name" : "Living Antiquity",
-        "icon" : "orb_201_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkUIsKKpxgYSBwgEFdXDjnEdOqHBqx2WBgDLHe9wB60d8Rig4B3wDm95IgsIABXO_gEAGAogADCJAji3AkAAUA5g5gKQAQAYqo_2mA5QBFgC",
-        "craftedBy" : [ ]
-      },
-      "waist" : {
-        "id" : "Belt_202",
-        "name" : "Rogue Ward",
-        "icon" : "belt_202_wizard_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkoI797bgQoSBwgEFbqnQtQd_sN0th32eAVyHZexg80dXUVFux1vi3fwHTrVS1QiCwgBFWZCAwAYDCAEMIkCOMICQABQEGDzApABABiL4eq7BVAEWAI",
-        "craftedBy" : [ ]
-      },
-      "rightFinger" : {
-        "id" : "Ring_16",
-        "name" : "Bond Slayer",
-        "icon" : "ring_16_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CnAIlMyJrgQSBwgEFRZVXUQdvQ4YMR0WPdW1HRVHysIddCjasB0N9VxBIgsIARVsQgMAGBwgDDCJAjjZAkAAUA5gjANqKQoMCAAQmY6FvYCAgKALEhkIi8XX8AUSBwgEFbVdtnowiQI4AEABkAEAkAEAGKzU6sUIUARYAg",
-        "craftedBy" : [ ]
-      },
-      "leftFinger" : {
-        "id" : "Ring_12",
-        "name" : "Oath Rage",
-        "icon" : "ring_12_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkoIxo6bjAUSBwgEFRJVXUQd6wKUXB2HYBBEHcfc_uwdOUGz6h1pEsu3HadwL7siCwgBFW1CAwAYIiAIMIkCONwDQABQEGCeBJABABik1OrFCFAEWAI",
-        "craftedBy" : [ ]
-      },
-      "neck" : {
-        "id" : "Amulet11",
-        "name" : "Biting Medal",
-        "icon" : "amulet11_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkAIjJrA7g4SBwgEFarFRGQd2te-BB2WBgDLHe5wB60dRrX5SyILCAAV16AFABgCIBwwiQI4ygJAAFAMYPwCkAEAGNSWpsQMUARYAg",
-        "craftedBy" : [ ]
-      }
-    },
-    "kills" : {
-      "elites" : 796
-    },
-    "hardcore" : true,
-    "death" : {
-      "killer" : 353874,
-      "time" : 1401116879,
-      "location" : 288685
-    },
-    "heroId" : 43930294,
-    "gender" : 1,
-    "class" : "wizard"
-  }, {
-    "name" : "Dittos",
-    "level" : 57,
-    "stats" : {
-      "life" : 0,
-      "damage" : 20412.3,
-      "toughness" : 253862.0,
-      "healing" : 158.15,
-      "armor" : 0,
-      "strength" : 64,
-      "dexterity" : 64,
-      "vitality" : 2054,
-      "intelligence" : 2880,
-      "physicalResist" : 0,
-      "fireResist" : 362,
-      "coldResist" : 325,
-      "lightningResist" : 325,
-      "poisonResist" : 504,
-      "arcaneResist" : 358,
-      "damageIncrease" : 0.0,
-      "critChance" : 0.0,
-      "damageReduction" : 0.0
-    },
-    "items" : {
-      "head" : {
-        "id" : "VoodooMask_103",
-        "name" : "Death Heart",
-        "icon" : "voodoomask_103_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CnIInM3i1gQSBwgEFVX89CQd7nAHrR0aneQEHXQo2rAdlgYAyx3x1Ue0IgsIARWKQgMAGAogFjCJAjj1AkAASA9QDmDsA2opCgwIABCdj8fcgICA4DoSGQjo0_PlBRIHCAQVR_WLXzCNAjgAQAGQAQCQAQAYqvGnzwRQBlgC",
-        "craftedBy" : [ ]
-      },
-      "torso" : {
-        "id" : "ChestArmor_104",
-        "name" : "Conundrum Accoutrements",
-        "icon" : "chestarmor_104_witchdoctor_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/Cp0BCOv85PEKEgcIBBXsHRlgHV03H8wdFUfKwh29DhgxHW-Ld_AdX-KVliILCAAVpv4BABgIIBIwiQI42wNAAEgSUA5g7QRqKQoMCAAQotWamICAgKAoEhkIvZ-X6AYSBwgEFbVdtnowiQI4AEABkAEAaikKDAgAEIC8mpiAgICgKBIZCKHO_5oMEgcIBBW1XbZ6MI0COABAAZABAJABABjY98iBDFAGWAI",
-        "craftedBy" : [ ]
-      },
-      "feet" : {
-        "id" : "Boots_103",
-        "name" : "Rising Groundpounders",
-        "icon" : "boots_103_witchdoctor_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkcIgrXktQISBwgEFVpBm38dFUfKwh29DhgxHeji5AUdmiUvKx3NkkI9IgsIABXI_gEAGBwgBDCJAjj_AkAASApQDmCGBJABABi0hdr5D1AGWAI",
-        "craftedBy" : [ {
-          "id" : "T06_Armor_Boots",
-          "slug" : "illustrious-treads",
-          "name" : "Illustrious Treads",
-          "cost" : 900,
-          "reagents" : [ {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          }, {
-            "quantity" : 4,
-            "item" : {
-              "id" : "Crafting_Tier_04C",
-              "name" : "Iridescent Tear",
-              "icon" : "crafting_tier_04c_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/iridescent-tear"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Boots_103",
-            "name" : "Illustrious Treads",
-            "icon" : "boots_103_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/illustrious-treads"
-          }
-        } ]
-      },
-      "hands" : {
-        "id" : "Gloves_104",
-        "name" : "Strangle Turmoil",
-        "icon" : "gloves_104_witchdoctor_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkIIneSG8g4SBwgEFYRXkqQd7XAHrR2VBgDLHdOPo1wdWUTORCILCAEVd0IDABgaIAwwiQI44wNAAEgKUAxg9QSQAQAY96HttgtQBlgC",
-        "craftedBy" : [ ]
-      },
-      "shoulders" : {
-        "id" : "Shoulders_105",
-        "name" : "Teeming Mantle",
-        "icon" : "shoulders_105_witchdoctor_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkII9Kv7lA4SBwgEFY70yBUd_DIWRh1W_CZIHf7DdLYdn8BhjSILCAAVzv4BABgOIBIwiQI4gQNAAEgTUAxg6AOQAQAYnNLH3AJQBlgC",
-        "craftedBy" : [ ]
-      },
-      "legs" : {
-        "id" : "Pants_105",
-        "name" : "Final Armor",
-        "icon" : "pants_105_witchdoctor_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/Cp0BCO-tyI4MEgcIBBVbjtWlHb0OGDEdVvwmSB0aneQEHY-QylAd8dVHtCILCAAVrf4BABgEIB4wiQI4swNAAEgBUA5gsQRqKQoMCAAQstWamICAgKAoEhkIscyfmggSBwgEFbVdtnowjQI4AEABkAEAaikKDAgAEMbVmpiAgICgKBIZCLGFtIsDEgcIBBW0XbZ6MI0COABAAZABAJABABjJxtOiC1AGWAI",
-        "craftedBy" : [ ]
-      },
-      "bracers" : {
-        "id" : "Bracers_104",
-        "name" : "Agonizing Brawlers",
-        "icon" : "bracers_104_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkUI3Mji9Q8SBwgEFZYoyssdFUfKwh1VItWqHb0OGDEdbot38B3NkkI9IgsIABV-uAUAGAogJDCJAji8AkAAUA5gvAOQAQAY092uwwZQBlgC",
-        "craftedBy" : [ ]
-      },
-      "mainHand" : {
-        "id" : "Unique_Sword_1H_017_x1",
-        "name" : "Monster Hunter",
-        "icon" : "unique_sword_1h_017_x1_demonhunter_male",
-        "displayColor" : "orange",
-        "tooltipParams" : "item/CogBCMDpxacMEgcIBBV88TpOHS777J8dZ0lp6h3vcAetHXXpUPwdy7BQxx17oyYiMIsCOMMCQABQElgEYLQDaigKDAgAEM3ImqaBgIDAJRIYCOri_s0HEgcIBBVJ9YtfMAk4AEABkAEAgAE1kAEApQFnSWnqrQFmIwZQtQFa1dnvuAH8l6n4CsABAxj4xdfjCVAGWAI",
-        "craftedBy" : [ ]
-      },
-      "offHand" : {
-        "id" : "Mojo_201",
-        "name" : "Headhunter's Ward",
-        "icon" : "mojo_201_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CnUIvJ-n2g8SBwgEFSdh2PcdJh7LAB1mIwZQHe9wB60dpa4Qgx1KtNJlHe2GrzEiCwgBFW9CAwAYAiAaMIkCOOECQABQEGC0A2opCgwIABD_tdvSgICAoCsSGQiE-p7fDBIHCAQVtV22ejCNAjgAQAGQAQCQAQAYsfu8ggFQBlgC",
-        "craftedBy" : [ {
-          "id" : "T08_Weapon_Mojo",
-          "slug" : "resplendent-wicker-man",
-          "name" : "Resplendent Wicker Man",
-          "cost" : 2700,
-          "reagents" : [ {
-            "quantity" : 8,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 8,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          }, {
-            "quantity" : 3,
-            "item" : {
-              "id" : "Crafting_Tier_04C",
-              "name" : "Iridescent Tear",
-              "icon" : "crafting_tier_04c_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/iridescent-tear"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Mojo_201",
-            "name" : "Resplendent Wicker Man",
-            "icon" : "mojo_201_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/resplendent-wicker-man"
-          }
-        } ]
-      },
-      "waist" : {
-        "id" : "Unique_Belt_107_x1",
-        "name" : "Hwoj Wrap",
-        "icon" : "unique_belt_107_x1_demonhunter_male",
-        "displayColor" : "orange",
-        "tooltipParams" : "item/CkMIkK_NvgwSBwgEFfzs42sdb4t38B3-w3S2HeLaKtAdP6KZQR1W_CZIMIsCOJ4BQABQElgEYIwCgAEykAEAtQF7o0LUGPizn74NUAZYAg",
-        "craftedBy" : [ ]
-      },
-      "rightFinger" : {
-        "id" : "Ring_17",
-        "name" : "Rugged Faze",
-        "icon" : "ring_17_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkUI5uyv1wMSBwgEFRdVXUQdFUfKwh2lBJIOHb0OGDEdHl2_Eh2bXtnWIgsIABXO_gEAGBogEjCJAjj2AUAAUA5g7gKQAQAYrtTqxQhQBlgC",
-        "craftedBy" : [ ]
-      },
-      "leftFinger" : {
-        "id" : "Ring_18",
-        "name" : "Prophetic Seal",
-        "icon" : "ring_18_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkAIqeLU7AwSBwgEFRhVXUQdFUfKwh29DhgxHdSUxQkdRbX5SyILCAAVrf4BABgkIAAwiQI40AJAAFAMYNUDkAEAGLDU6sUIUAZYAg",
-        "craftedBy" : [ ]
-      },
-      "neck" : {
-        "id" : "Amulet09",
-        "name" : "Herald Secret",
-        "icon" : "amulet09_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CoMBCOeY-5YMEgcIBBWRxURkHdrXvgQdlQYAyx3tcAetHba34l8iCwgBFW9CAwAYECASMIsCOJ4CQABQDFgEYJsDaikKDAgAENf8jIuBgIDAIRIZCPyorYMHEgcIBBWzXbZ6MIkCOABAAZABAJABAKUB2te-BK0BdCjasLgB15iGtAzAAQMYopamxAxQBlgC",
-        "craftedBy" : [ ]
-      }
-    },
-    "kills" : {
-      "elites" : 664
-    },
-    "hardcore" : true,
-    "death" : {
-      "killer" : 325136,
-      "time" : 1399457332,
-      "location" : 328484
-    },
-    "heroId" : 41885145,
-    "gender" : 1,
-    "class" : "witch-doctor"
-  }, {
-    "name" : "Trallina",
-    "level" : 42,
-    "stats" : {
-      "life" : 0,
-      "damage" : 2304.89,
-      "toughness" : 30589.2,
-      "healing" : 307.64,
-      "armor" : 0,
-      "strength" : 49,
-      "dexterity" : 1380,
-      "vitality" : 762,
-      "intelligence" : 136,
-      "physicalResist" : 0,
-      "fireResist" : 27,
-      "coldResist" : 27,
-      "lightningResist" : 27,
-      "poisonResist" : 27,
-      "arcaneResist" : 27,
-      "damageIncrease" : 0.0,
-      "critChance" : 0.0,
-      "damageReduction" : 0.0
-    },
-    "items" : {
-      "head" : {
-        "id" : "SpiritStone_101",
-        "name" : "The Sliver",
-        "icon" : "spiritstone_101_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/Cm8Igp7vmwsSBwgEFdW5hfEd3kxK8h07sszQHWlccP0djib-qx3lrAcnHbPk6qwiCwgAFbb-AQAYICAiMAk46gJAAFAQYOoCaiQKDAgAEPvakJSBgIDAHRIUCAASBwgEFUn1i18wCTgAQAGQAQCQAQAY1ZjS5wFQCFgC",
-        "craftedBy" : [ ]
-      },
-      "torso" : {
-        "id" : "ChestArmor_102",
-        "name" : "War Revenge",
-        "icon" : "chestarmor_102_monk_female",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CnAIsfmSehIHCAQV6h0ZYB0q3-EvHSLVlwMd5BoGUB0sCAO6HYuKozYiCwgBFW1CAwAYBCAeMIkCOMQEQABIElAOYMsEaigKDAgAEKLrjfeAgICgNhIYCKDD76sCEgcIBBX-la6YMAk4AEABkAEAkAEAGNT3yIEMUAhYAg",
-        "craftedBy" : [ {
-          "id" : "T05_Armor_Chest",
-          "slug" : "grand-master-etched-jacket",
-          "name" : "Grand Master Etched Jacket",
-          "cost" : 6000,
-          "reagents" : [ {
-            "quantity" : 4,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "ChestArmor_102",
-            "name" : "Grand Master Etched Jacket",
-            "icon" : "chestarmor_102_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/grand-master-etched-jacket"
-          }
-        } ]
-      },
-      "feet" : {
-        "id" : "Boots_006",
-        "name" : "Shadow Crushers",
-        "icon" : "boots_006_monk_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkEI1ZO-7gwSBwgEFRw9m38dFqTT2B1OzWj4HXn3Sgcds-TqrCILCAAVrv4BABgOIAwwCTj9BEAASAVQDGD9BJABABi49Nn5D1AIWAI",
-        "craftedBy" : [ {
-          "id" : "T04_Armor_Boots",
-          "slug" : "master-greaves",
-          "name" : "Master Greaves",
-          "cost" : 450,
-          "reagents" : [ {
-            "quantity" : 4,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          }, {
-            "quantity" : 3,
-            "item" : {
-              "id" : "Crafting_Tier_04C",
-              "name" : "Iridescent Tear",
-              "icon" : "crafting_tier_04c_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/iridescent-tear"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Boots_006",
-            "name" : "Master Greaves",
-            "icon" : "boots_006_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/master-greaves"
-          }
-        } ]
-      },
-      "hands" : {
-        "id" : "Gloves_102",
-        "name" : "Grip Greed",
-        "icon" : "gloves_102_monk_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkII2q-k2QQSBwgEFYJXkqQdkjzGSh1a8N4EHZQGAMsdb4t38CILCAEVdkIDABgqIAAwiQI41gNAAEgTUAxg1gOQAQAY-6HttgtQCFgC",
-        "craftedBy" : [ {
-          "id" : "T05_Armor_Gloves",
-          "slug" : "grand-master-etched-gloves",
-          "name" : "Grand Master Etched Gloves",
-          "cost" : 1020,
-          "reagents" : [ {
-            "quantity" : 4,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          }, {
-            "quantity" : 6,
-            "item" : {
-              "id" : "Crafting_Tier_04C",
-              "name" : "Iridescent Tear",
-              "icon" : "crafting_tier_04c_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/iridescent-tear"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Gloves_102",
-            "name" : "Grand Master Etched Gloves",
-            "icon" : "gloves_102_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/grand-master-etched-gloves"
-          }
-        } ]
-      },
-      "shoulders" : {
-        "id" : "Unique_Shoulder_102_x1",
-        "name" : "Spaulders of Zakara",
-        "icon" : "unique_shoulder_102_x1_demonhunter_male",
-        "displayColor" : "orange",
-        "tooltipParams" : "item/CkMIp6OJiAUSBwgEFRbAhY0dCW8vux02UmdvHSrf4S8dP6KZQR2CT1qzMIsCOI8DQABQElgEYI8DgAEpkAEAtQGL9MgVGNP_0acOUAhYAg",
-        "craftedBy" : [ ]
-      },
-      "legs" : {
-        "id" : "Pants_103",
-        "name" : "Mutiny Device",
-        "icon" : "pants_103_monk_female",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/Cp8BCPaB_v4HEgcIBBVZjtWlHfTkUiodKZZAYB3iIb0HHS7Ortkdr1PDNh0R7X6IIgsIARWIQgMAGAYgFDAJOJwEQABIAVAQYJwEaigKDAgAEKnJ68WAgIDgHxIYCPjz8NMBEgcIBBUBlq6YMAk4AEABkAEAaigKDAgAELPJ68WAgIDgHxIYCN3Fwt0BEgcIBBUBlq6YMAk4AEABkAEAkAEAGM3G06ILUAhYAg",
-        "craftedBy" : [ {
-          "id" : "T06_Armor_Pants",
-          "slug" : "illustrious-chausses",
-          "name" : "Illustrious Chausses",
-          "cost" : 1020,
-          "reagents" : [ {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 15,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Pants_103",
-            "name" : "Illustrious Chausses",
-            "icon" : "pants_103_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/illustrious-chausses"
-          }
-        } ]
-      },
-      "bracers" : {
-        "id" : "Bracers_103",
-        "name" : "Iron Stabilizers of Cruelty",
-        "icon" : "bracers_103_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikInbuL-QESBwgEFZUoyssdKt_hLx0QjMEcMIkCOKEDQABQCGChA5ABABjV3a7DBlAIWAI",
-        "craftedBy" : [ ]
-      },
-      "mainHand" : {
-        "id" : "FistWeapon_1H_103",
-        "name" : "Reclusive Glory",
-        "icon" : "fistweapon_1h_103_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkoI7rrY6QMSBwgEFWsctUkdhYEmLh095Qz6HX36KUUdwvq8oB0UkrccHVlEzkQiCwgAFVpEAwAYFiAkMIkCOK4DQABQEGC2A5ABABjW8aibCVAIWAI",
-        "craftedBy" : [ ]
-      },
-      "offHand" : {
-        "id" : "FistWeapon_1H_102",
-        "name" : "Unity Torment",
-        "icon" : "fistweapon_1h_102_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkoIr5eiygISBwgEFWoctUkdsvGcNB3C-rygHezJJgYddCjasB1ZRM5EHePIsZsiCwgBFYNCAwAYDiAeMIkCOKcDQABQEGCnA5ABABjU8aibCVAIWAI",
-        "craftedBy" : [ {
-          "id" : "T05_Weapon_Fist",
-          "slug" : "grand-master-knuckles",
-          "name" : "Grand Master Knuckles",
-          "cost" : 2400,
-          "reagents" : [ {
-            "quantity" : 6,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 7,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          }, {
-            "quantity" : 2,
-            "item" : {
-              "id" : "Crafting_Tier_04C",
-              "name" : "Iridescent Tear",
-              "icon" : "crafting_tier_04c_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/iridescent-tear"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "FistWeapon_1H_102",
-            "name" : "Grand Master Knuckles",
-            "icon" : "fistweapon_1h_102_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/grand-master-knuckles"
-          }
-        } ]
-      },
-      "waist" : {
-        "id" : "Belt_102",
-        "name" : "Feral Waistwrap of Fortitude",
-        "icon" : "belt_102_monk_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CigItf-GjAMSBwgEFXmjQtQdl64tZh1yL44nMAk4gQRAAFAIYIEEkAEAGI3y6rsFUAhYAg",
-        "craftedBy" : [ ]
-      },
-      "rightFinger" : {
-        "id" : "Ring_14",
-        "name" : "Socketed Ring of Agony",
-        "icon" : "ring_14_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/ClEIqpPg8AISBwgEFRRVXUQdlL80ih2aPeYaMAk4igRAAFAIYIoEaicKDAgAEJzJ68WAgIDgHxIXCLuA8nESBwgEFQGWrpgwCTgAQAGQAQCQAQAYqNTqxQhQCFgC",
-        "craftedBy" : [ ]
-      },
-      "leftFinger" : {
-        "id" : "Ring_13",
-        "name" : "Socketed Ring of Agony",
-        "icon" : "ring_13_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/Ck4IjuWTvQgSBwgEFRNVXUQdWYiJlR2FvzSKMAk43gJAAFAIYN4CaiQKDAgAEIWzjuWAgICgBRIUCAASBwgEFQGWrpgwCTgAQAGQAQCQAQAYptTqxQhQCFgC",
-        "craftedBy" : [ ]
-      },
-      "neck" : {
-        "id" : "Amulet07",
-        "name" : "Eminence Scorn",
-        "icon" : "amulet07_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkUIz8XoqQ8SBwgEFY_FRGQd7MkmBh19-ilFHSr2QbMdGzcfzB1ZRM5EIgsIARVsQgMAGCQgGjCJAjibA0AAUA5gmwOQAQAYnpamxAxQCFgC",
-        "craftedBy" : [ ]
-      }
-    },
-    "kills" : {
-      "elites" : 497
-    },
-    "hardcore" : true,
-    "death" : {
-      "killer" : 143996,
-      "time" : 1397830940,
-      "location" : 153670
-    },
-    "heroId" : 21633531,
-    "gender" : 1,
-    "class" : "monk"
   }, {
     "name" : "HUEHUE",
     "level" : 33,
@@ -2012,16 +859,14 @@
         "name" : "Sledge of Athskeleng",
         "icon" : "unique_mace_2h_002_x1_demonhunter_male",
         "displayColor" : "orange",
-        "tooltipParams" : "item/Co8BCLfc1c4MEgcIBBXeXoUDHaEp3AUdhpD82h3OnAfzHZ5Pg9wd3tP1oh3r4uQFMIsSOOwBQABQElgEYIcCai8KDAgAEMzJ2q6CgIDAChIfCNjRiRkSBwgEFUlyocEwixI4AEAAUBJYBJABAtgBMoABRpABAqUB3tP1oq0BZiMGULUBI0Ggn7gBr4a9qgnAAQEYvPuqOFAKWAI",
-        "craftedBy" : [ ]
+        "tooltipParams" : "item/Co8BCLfc1c4MEgcIBBXeXoUDHaEp3AUdhpD82h3OnAfzHZ5Pg9wd3tP1oh3r4uQFMIsSOOwBQABQElgEYIcCai8KDAgAEMzJ2q6CgIDAChIfCNjRiRkSBwgEFUlyocEwixI4AEAAUBJYBJABAtgBMoABRpABAqUB3tP1oq0BZiMGULUBI0Ggn7gBr4a9qgnAAQEYvPuqOFAKWAI"
       },
       "offHand" : {
         "id" : "CrusaderShield_000",
         "name" : "Crusader Shield",
         "icon" : "crusadershield_000_demonhunter_male",
         "displayColor" : "white",
-        "tooltipParams" : "item/Ch0Ixb7V-AUSBwgEFeGS8_gwiRI4gwVAAGDLBZABAhi9tONwUApYAg",
-        "craftedBy" : [ ]
+        "tooltipParams" : "item/Ch0Ixb7V-AUSBwgEFeGS8_gwiRI4gwVAAGDLBZABAhi9tONwUApYAg"
       }
     },
     "kills" : {
@@ -2036,1320 +881,6 @@
     "heroId" : 55958803,
     "gender" : 1,
     "class" : "crusader"
-  }, {
-    "name" : "Frenzo",
-    "level" : 30,
-    "stats" : {
-      "life" : 0,
-      "damage" : 205.056,
-      "toughness" : 0.0,
-      "healing" : 0.0,
-      "armor" : 0,
-      "strength" : 320,
-      "dexterity" : 94,
-      "vitality" : 487,
-      "intelligence" : 174,
-      "physicalResist" : 0,
-      "fireResist" : 17,
-      "coldResist" : 17,
-      "lightningResist" : 17,
-      "poisonResist" : 17,
-      "arcaneResist" : 17,
-      "damageIncrease" : 0.0,
-      "critChance" : 0.0,
-      "damageReduction" : 0.0
-    },
-    "items" : {
-      "head" : {
-        "id" : "Helm_004",
-        "name" : "Socketed Arming Cap of Fortitude",
-        "icon" : "helm_004_barbarian_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CkwIjPHiqQYSBwgEFfnwTl0dhb80ih1yL44nMAk47ARAAFAIYLIFaiUKDAgAEMGLmN-AgICgDRIVCPmx-eMLEgcIBBVF9YtfMA04AEABGPLD99QLUAJYAg",
-        "craftedBy" : [ {
-          "id" : "T02_Armor_Helm",
-          "slug" : "journeyman-arming-cap",
-          "name" : "Journeyman Arming Cap",
-          "cost" : 510,
-          "reagents" : [ {
-            "quantity" : 4,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          }, {
-            "quantity" : 6,
-            "item" : {
-              "id" : "Crafting_Tier_04C",
-              "name" : "Iridescent Tear",
-              "icon" : "crafting_tier_04c_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/iridescent-tear"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Helm_004",
-            "name" : "Journeyman Arming Cap",
-            "icon" : "helm_004_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/journeyman-arming-cap"
-          }
-        } ]
-      },
-      "torso" : {
-        "id" : "ChestArmor_006",
-        "name" : "Reptilian Plate Mail of Fortitude",
-        "icon" : "chestarmor_006_barbarian_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CiUI6Ji86wsSBwgEFa0ZGWAdTs1o-B0K0ZIIMAk4vgRAAFAIYP4EGNrmyIEMUAJYAg",
-        "craftedBy" : [ {
-          "id" : "T04_Armor_Chest",
-          "slug" : "master-plate-mail",
-          "name" : "Master Plate Mail",
-          "cost" : 3000,
-          "reagents" : [ {
-            "quantity" : 4,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "ChestArmor_006",
-            "name" : "Master Plate Mail",
-            "icon" : "chestarmor_006_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/master-plate-mail"
-          }
-        } ]
-      },
-      "feet" : {
-        "id" : "Boots_006",
-        "name" : "Strider Pilgrim",
-        "icon" : "boots_006_barbarian_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/Cj4Iyu3c_gkSBwgEFRw9m38dci-OJx0J6lAIHXmzxXIdPrhdSiILCAEVh0IDABgCIBQwCTjKA0AASAxQDGD-Axi49Nn5D1ACWAI",
-        "craftedBy" : [ {
-          "id" : "T04_Armor_Boots",
-          "slug" : "master-greaves",
-          "name" : "Master Greaves",
-          "cost" : 450,
-          "reagents" : [ {
-            "quantity" : 4,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          }, {
-            "quantity" : 3,
-            "item" : {
-              "id" : "Crafting_Tier_04C",
-              "name" : "Iridescent Tear",
-              "icon" : "crafting_tier_04c_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/iridescent-tear"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Boots_006",
-            "name" : "Master Greaves",
-            "icon" : "boots_006_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/master-greaves"
-          }
-        } ]
-      },
-      "hands" : {
-        "id" : "Gloves_004",
-        "name" : "Dueling Chain Gloves of Fortitude",
-        "icon" : "gloves_004_barbarian_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CiUIqvH0ugsSBwgEFUNTkqQdPrhdSh1yL44nMAk45wNAAFAIYJ4EGPmy7bYLUAJYAg",
-        "craftedBy" : [ ]
-      },
-      "shoulders" : {
-        "id" : "Shoulders_005",
-        "name" : "Dauntless Spaulders of Cruelty",
-        "icon" : "shoulders_005_barbarian_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CiUIiLG31wQSBwgEFU3wyBUdYLcD_R3mf6u4MAk4iQRAAFAIYMQEGJrBx9wCUAJYAg",
-        "craftedBy" : [ ]
-      },
-      "legs" : {
-        "id" : "Pants_006",
-        "name" : "Socketed Plate Leggings of Invasion",
-        "icon" : "pants_006_barbarian_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CnMIq7z_7AgSBwgEFRuK1aUdGE28Kh2SvzSKMAk40QNAAFAIYIUEaiUKDAgAENWwp8aAgIDgPxIVCMWt_6oOEgcIBBXyntirMAk4AEABaiUKDAgAEJipl9-AgICgDRIVCMm6_fQPEgcIBBXyntirMAk4AEABGMnX06ILUAJYAg",
-        "craftedBy" : [ {
-          "id" : "T03_Armor_Pants",
-          "slug" : "adept-plate-leggings",
-          "name" : "Adept Plate Leggings",
-          "cost" : 510,
-          "reagents" : [ {
-            "quantity" : 4,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 11,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Pants_006",
-            "name" : "Adept Plate Leggings",
-            "icon" : "pants_006_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/adept-plate-leggings"
-          }
-        } ]
-      },
-      "bracers" : {
-        "id" : "Bracers_005",
-        "name" : "Clever Bracelets of Fortitude",
-        "icon" : "bracers_005_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CiUI_-CvvwESBwgEFVYkyssdEJFTaB0xejGiMAk4sgNAAFAIYOMDGNPursMGUAJYAg",
-        "craftedBy" : [ ]
-      },
-      "mainHand" : {
-        "id" : "Unique_Sword_1H_017_104",
-        "name" : "Monster Hunter",
-        "icon" : "unique_sword_1h_017_104_demonhunter_male",
-        "displayColor" : "orange",
-        "tooltipParams" : "item/CjkI17eZ0AgSBwgEFQjzlxUdAURfoB2jR1gLHdWmhqodi85F7x0wjVNgHZsyq9swCTjsAUAAUBJghwIYkMy_2QJQAlgC",
-        "craftedBy" : [ ]
-      },
-      "offHand" : {
-        "id" : "Shield_006",
-        "name" : "Castle Wrath",
-        "icon" : "shield_006_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CmgIm5nkvg8SBwgEFY4DO2wd4zctFB3Hl0BgHQ0YDHMdt1voSB2bsMzQIgsIARW7RAMAGBggDjAJONoEQABQDmCdBWolCgwIABDGjpjfgICAoA0SFQjwhrfNBBIHCAQV8p7YqzANOABAARicjtjDDVACWAI",
-        "craftedBy" : [ {
-          "id" : "T03_Armor_Shield",
-          "slug" : "adept-gothic-shield",
-          "name" : "Adept Gothic Shield",
-          "cost" : 900,
-          "reagents" : [ {
-            "quantity" : 6,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 6,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          }, {
-            "quantity" : 2,
-            "item" : {
-              "id" : "Crafting_Tier_04C",
-              "name" : "Iridescent Tear",
-              "icon" : "crafting_tier_04c_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/iridescent-tear"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Shield_006",
-            "name" : "Adept Gothic Shield",
-            "icon" : "shield_006_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/adept-gothic-shield"
-          }
-        } ]
-      },
-      "waist" : {
-        "id" : "BarbBelt_004",
-        "name" : "Dauntless Grand Belt",
-        "icon" : "barbbelt_004_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CiAI08fplQ0SBwgEFRHv5H0dnTEAIjAJOMoCQABQBmDvAhiivKfeD1ACWAI",
-        "craftedBy" : [ ]
-      },
-      "rightFinger" : {
-        "id" : "Ring_08",
-        "name" : "Proud Ring of Invasion",
-        "icon" : "ring_08_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CiUI67Ti0g8SBwgEFfdUXUQd15dfpR0P3HF8MAk40wNAAFAIYIcEGO7T6sUIUAJYAg",
-        "craftedBy" : [ ]
-      },
-      "leftFinger" : {
-        "id" : "Ring_06",
-        "name" : "Banished Ring",
-        "icon" : "ring_06_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CmwI3av9dBIHCAQV9VRdRB2AeRygHYW_NIodzY-crh3XHdCKHYutUmgdrw94lyILCAAVy_4BABgYIBwwCTiiA0AAUBBg0QNqJQoMCAAQ6qiX34CAgKANEhUI69XSxgcSBwgEFfKe2KswDTgAQAEY6tPqxQhQAlgC",
-        "craftedBy" : [ ]
-      },
-      "neck" : {
-        "id" : "Amulet03",
-        "name" : "Proud Amulet of Wounding",
-        "icon" : "amulet03_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CiUIhdvL4gkSBwgEFYvFRGQdZ6WvER0Y0ywQMAk4hQNAAFAIYLEDGJaWpsQMUAJYAg",
-        "craftedBy" : [ ]
-      }
-    },
-    "kills" : {
-      "elites" : 409
-    },
-    "hardcore" : true,
-    "death" : {
-      "killer" : 106708,
-      "time" : 1351192378,
-      "location" : 109513
-    },
-    "heroId" : 21480716,
-    "gender" : 1,
-    "class" : "barbarian"
-  }, {
-    "name" : "CrazyHorse",
-    "level" : 22,
-    "stats" : {
-      "life" : 0,
-      "damage" : 254.156,
-      "toughness" : 4081.38,
-      "healing" : 24.84,
-      "armor" : 0,
-      "strength" : 419,
-      "dexterity" : 29,
-      "vitality" : 198,
-      "intelligence" : 29,
-      "physicalResist" : 0,
-      "fireResist" : 2,
-      "coldResist" : 2,
-      "lightningResist" : 2,
-      "poisonResist" : 2,
-      "arcaneResist" : 2,
-      "damageIncrease" : 0.0,
-      "critChance" : 0.0,
-      "damageReduction" : 0.0
-    },
-    "items" : {
-      "head" : {
-        "id" : "Helm_003",
-        "name" : "Stern Initiation",
-        "icon" : "helm_003_crusader_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkcIwKbyvQkSBwgEFfjwTl0dHgILbB0MgPYFHebJJgYdbIt38B1xYMNiIgsIARVyQgMAGCggIjCJAjibBEAASApQDmDeBJABABjww_fUC1AKWAA",
-        "craftedBy" : [ {
-          "id" : "T01_Armor_Helm",
-          "slug" : "apprentice-coif",
-          "name" : "Apprentice Coif",
-          "cost" : 510,
-          "reagents" : [ {
-            "quantity" : 4,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          }, {
-            "quantity" : 6,
-            "item" : {
-              "id" : "Crafting_Tier_04C",
-              "name" : "Iridescent Tear",
-              "icon" : "crafting_tier_04c_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/iridescent-tear"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Helm_003",
-            "name" : "Apprentice Coif",
-            "icon" : "helm_003_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/apprentice-coif"
-          }
-        } ]
-      },
-      "torso" : {
-        "id" : "ChestArmor_004",
-        "name" : "Discerning Coat",
-        "icon" : "chestarmor_004_crusader_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CnIIpLCtzwMSBwgEFasZGWAdj6CAaR01vq5sHWUo2rAdfmDDYh2gUvprIgsIABWx_gEAGBogKDCJAjjfBEAASAFQDmCqBWopCgwIABC5o8W1gICAoCkSGQjB1s2uDhIHCAQVQvWLXzCJAjgAQAGQAQCQAQAY1ubIgQxQClgA",
-        "craftedBy" : [ ]
-      },
-      "feet" : {
-        "id" : "Boots_002",
-        "name" : "Lucky Boots of the Lion",
-        "icon" : "boots_002_crusader_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikI9On_iAkSBwgEFRg9m38d9AhS5x2gUvprMIkDOMEEQABQCGCIBZABABiw9Nn5D1AKWAA",
-        "craftedBy" : [ {
-          "id" : "T01_Armor_Boots",
-          "slug" : "apprentice-boots",
-          "name" : "Apprentice Boots",
-          "cost" : 225,
-          "reagents" : [ {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Boots_002",
-            "name" : "Apprentice Boots",
-            "icon" : "boots_002_demonhunter_male",
-            "displayColor" : "blue",
-            "tooltipParams" : "recipe/apprentice-boots"
-          }
-        } ]
-      },
-      "hands" : {
-        "id" : "Gloves_004",
-        "name" : "Chain Gloves of Invasion",
-        "icon" : "gloves_004_crusader_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CiQI57OZpwYSBwgEFUNTkqQdDoD2BTCJAji3A0AAUAZg7wOQAQAY-bLttgtQClgA",
-        "craftedBy" : [ ]
-      },
-      "shoulders" : {
-        "id" : "Shoulders_003",
-        "name" : "Clever Shoulder Guards of the Lion",
-        "icon" : "shoulders_003_crusader_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikI0PvXqAsSBwgEFUvwyBUdNb6ubB1-YMNiMIkCOKAEQABQCGDkBJABABiWwcfcAlAKWAA",
-        "craftedBy" : [ {
-          "id" : "T02_Armor_Shoulders",
-          "slug" : "journeyman-shoulder-guards",
-          "name" : "Journeyman Shoulder Guards",
-          "cost" : 2400,
-          "reagents" : [ {
-            "quantity" : 4,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Shoulders_003",
-            "name" : "Journeyman Shoulder Guards",
-            "icon" : "shoulders_003_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/journeyman-shoulder-guards"
-          }
-        } ]
-      },
-      "legs" : {
-        "id" : "Pants_003",
-        "name" : "Menacing Cloth",
-        "icon" : "pants_003_crusader_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkIIu-yGmwwSBwgEFRiK1aUdKkFmWR1O6yPkHfQIUucdbIt38CILCAAVzP4BABgGIBgwiQI4vANAAEgTUAxg9QOQAQAYz9fTogtQClgA",
-        "craftedBy" : [ {
-          "id" : "T01_Armor_Pants",
-          "slug" : "apprentice-hide-breeches",
-          "name" : "Apprentice Hide Breeches",
-          "cost" : 425,
-          "reagents" : [ {
-            "quantity" : 6,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Pants_003",
-            "name" : "Apprentice Hide Breeches",
-            "icon" : "pants_003_demonhunter_male",
-            "displayColor" : "blue",
-            "tooltipParams" : "recipe/apprentice-hide-breeches"
-          }
-        } ]
-      },
-      "bracers" : {
-        "id" : "Bracers_003",
-        "name" : "Reptilian Bindings of Invasion",
-        "icon" : "bracers_003_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikIjeugyAYSBwgEFVQkyssddnML8h3E3P7sMIkDOM4DQABQCGCJBJABABjX7q7DBlAKWAA",
-        "craftedBy" : [ ]
-      },
-      "mainHand" : {
-        "id" : "Unique_Sword_1H_002_x1",
-        "name" : "Wildwood",
-        "icon" : "unique_sword_1h_002_x1_demonhunter_male",
-        "displayColor" : "orange",
-        "tooltipParams" : "item/ClkIgLeM2w4SBwgEFRYbJk4d4Mixmx0lEzfnHUlzZMcdsPGcNB0OgPYFHadwL7swiQI4pAJAAFASWAZgzAKAARGQAQC1AdrM2e_IAdK66gHIAdf61ALQAfzCDxis7LDiCVAKWAA",
-        "craftedBy" : [ ]
-      },
-      "offHand" : {
-        "id" : "CrusaderShield_005",
-        "name" : "Sinister Anvil",
-        "icon" : "crusadershield_005_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkAI_oir_w0SBwgEFeaS8_gdDoD2BR3msA99HejJJgYdsbfiXyILCAAVqv4BABgOIBYwiQI4sgRAAFAMYPgEkAEAGLO043BQClgA",
-        "craftedBy" : [ ]
-      },
-      "waist" : {
-        "id" : "Belt_004",
-        "name" : "Knight's Entity",
-        "icon" : "belt_004_crusader_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkUIiNH-uQ0SBwgEFTqfQtQdj6CAaR01vq5sHWv2wt4dbIt38B1-YMNiIgsIARV2QgMAGBIgFjCJAjjFAkAAUBBg8AKQAQAYi4PruwVQClgA",
-        "craftedBy" : [ ]
-      },
-      "rightFinger" : {
-        "id" : "Ring_04",
-        "name" : "Mending Ring of Wounding",
-        "icon" : "ring_04_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikIpZvtmAMSBwgEFfNUXUQddiGdWh2YwGGNMIkDONQCQABQCGCBA5ABABjm0-rFCFAKWAA",
-        "craftedBy" : [ ]
-      },
-      "leftFinger" : {
-        "id" : "Ring_04",
-        "name" : "Mending Ring of Wounding",
-        "icon" : "ring_04_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikIpZvtmAMSBwgEFfNUXUQddiGdWh2YwGGNMIkDONQCQABQCGCBA5ABABjm0-rFCFAKWAA",
-        "craftedBy" : [ ]
-      },
-      "neck" : {
-        "id" : "Amulet01",
-        "name" : "Insightful Amulet of Wounding",
-        "icon" : "amulet01_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikIrdermgwSBwgEFYnFRGQddiGdWh1zMlHfMIkDOLIDQABQCGDpA5ABABiSlqbEDFAKWAA",
-        "craftedBy" : [ ]
-      }
-    },
-    "kills" : {
-      "elites" : 150
-    },
-    "hardcore" : true,
-    "death" : {
-      "killer" : 219702,
-      "time" : 1397337254,
-      "location" : 2826
-    },
-    "heroId" : 41255839,
-    "gender" : 0,
-    "class" : "crusader"
-  }, {
-    "name" : "CrazyHorse",
-    "level" : 20,
-    "stats" : {
-      "life" : 0,
-      "damage" : 198.624,
-      "toughness" : 2907.83,
-      "healing" : 17.7,
-      "armor" : 0,
-      "strength" : 27,
-      "dexterity" : 27,
-      "vitality" : 151,
-      "intelligence" : 360,
-      "physicalResist" : 0,
-      "fireResist" : 36,
-      "coldResist" : 36,
-      "lightningResist" : 36,
-      "poisonResist" : 36,
-      "arcaneResist" : 36,
-      "damageIncrease" : 0.0,
-      "critChance" : 0.0,
-      "damageReduction" : 0.0
-    },
-    "items" : {
-      "head" : {
-        "id" : "Helm_003",
-        "name" : "Flesh Echo",
-        "icon" : "helm_003_wizard_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkIIpZmAywQSBwgEFfjwTl0d5ckmBh09ST4FHcLc_uwdF5UCdSILCAAVyP4BABgaIBIwjQI4ywRAAEgTUAxglwWQAQAY8MP31AtQBFgC",
-        "recipe" : {
-          "id" : "T01_Armor_Helm",
-          "slug" : "apprentice-coif",
-          "name" : "Apprentice Coif",
-          "cost" : 510,
-          "reagents" : [ {
-            "quantity" : 4,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          }, {
-            "quantity" : 6,
-            "item" : {
-              "id" : "Crafting_Tier_04C",
-              "name" : "Iridescent Tear",
-              "icon" : "crafting_tier_04c_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/iridescent-tear"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Helm_003",
-            "name" : "Apprentice Coif",
-            "icon" : "helm_003_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/apprentice-coif"
-          }
-        },
-        "craftedBy" : [ {
-          "id" : "T01_Armor_Helm",
-          "slug" : "apprentice-coif",
-          "name" : "Apprentice Coif",
-          "cost" : 510,
-          "reagents" : [ {
-            "quantity" : 4,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          }, {
-            "quantity" : 6,
-            "item" : {
-              "id" : "Crafting_Tier_04C",
-              "name" : "Iridescent Tear",
-              "icon" : "crafting_tier_04c_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/iridescent-tear"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Helm_003",
-            "name" : "Apprentice Coif",
-            "icon" : "helm_003_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/apprentice-coif"
-          }
-        } ]
-      },
-      "torso" : {
-        "id" : "ChestArmor_004",
-        "name" : "Scout's Vestments",
-        "icon" : "chestarmor_004_wizard_female",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkcIw9Ga8gISBwgEFasZGWAdTusj5B3nLSFHHWv2wt4dh7UwIR0Hby-7IgsIABWx_gEAGBwgJjCJAji9A0AASApQDmD9A5ABABjW5siBDFAEWAI",
-        "craftedBy" : [ ]
-      },
-      "feet" : {
-        "id" : "Boots_002",
-        "name" : "Nimble Boots of Focus",
-        "icon" : "boots_002_wizard_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikI7JWpkAkSBwgEFRg9m38dJA4Ltx3n4uQFMIkCONUDQABQCGCYBJABABiw9Nn5D1AEWAI",
-        "craftedBy" : [ {
-          "id" : "T01_Armor_Boots",
-          "slug" : "apprentice-boots",
-          "name" : "Apprentice Boots",
-          "cost" : 225,
-          "reagents" : [ {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Boots_002",
-            "name" : "Apprentice Boots",
-            "icon" : "boots_002_demonhunter_male",
-            "displayColor" : "blue",
-            "tooltipParams" : "recipe/apprentice-boots"
-          }
-        } ]
-      },
-      "hands" : {
-        "id" : "Gloves_003",
-        "name" : "Keen Hide Gloves of Focus",
-        "icon" : "gloves_003_wizard_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikI8r-grQQSBwgEFUJTkqQdPUk-BR3PujBHMIkCOI0EQABQCGDWBJABABj7su22C1AEWAI",
-        "craftedBy" : [ {
-          "id" : "T01_Armor_Gloves",
-          "slug" : "apprentice-hide-gloves",
-          "name" : "Apprentice Hide Gloves",
-          "cost" : 510,
-          "reagents" : [ {
-            "quantity" : 4,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          }, {
-            "quantity" : 6,
-            "item" : {
-              "id" : "Crafting_Tier_04C",
-              "name" : "Iridescent Tear",
-              "icon" : "crafting_tier_04c_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/iridescent-tear"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Gloves_003",
-            "name" : "Apprentice Hide Gloves",
-            "icon" : "gloves_003_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/apprentice-hide-gloves"
-          }
-        } ]
-      },
-      "shoulders" : {
-        "id" : "Shoulders_002",
-        "name" : "Hell Remedy",
-        "icon" : "shoulders_002_wizard_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkIInYiN-wISBwgEFUrwyBUd5y0hRx20561kHaBS-msdmcBhjSILCAEVeEIDABgeIAIwiQI47wNAAEgSUAxgtQSQAQAYlMHH3AJQBFgC",
-        "craftedBy" : [ {
-          "id" : "T01_Armor_Shoulders",
-          "slug" : "apprentice-leather-mantle",
-          "name" : "Apprentice Leather Mantle",
-          "cost" : 2400,
-          "reagents" : [ {
-            "quantity" : 4,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Shoulders_002",
-            "name" : "Apprentice Leather Mantle",
-            "icon" : "shoulders_002_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/apprentice-leather-mantle"
-          }
-        } ]
-      },
-      "legs" : {
-        "id" : "Pants_002",
-        "name" : "War Terminus",
-        "icon" : "pants_002_wizard_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkIIzvW4gQESBwgEFReK1aUdJA4Ltx3MgGrZHSpBZlkdcWDDYiILCAEVb0IDABgkIA4wiQI4-QNAAEgDUAxgvASQAQAY0dfTogtQBFgC",
-        "craftedBy" : [ ]
-      },
-      "bracers" : {
-        "id" : "Bracers_002",
-        "name" : "Hungering Irons",
-        "icon" : "bracers_002_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/Cj8I_6P5WhIHCAQVUyTKyx3nLSFHHWB6wnMdj6CAaR2gUvprIgsIABW0_gEAGA4gGjCJAzjoAkAAUAxgmwOQAQAY2e6uwwZQBFgC",
-        "craftedBy" : [ {
-          "id" : "T01_Armor_Bracers",
-          "slug" : "apprentice-leather-cuffs",
-          "name" : "Apprentice Leather Cuffs",
-          "cost" : 255,
-          "reagents" : [ {
-            "quantity" : 11,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Bracers_002",
-            "name" : "Apprentice Leather Cuffs",
-            "icon" : "bracers_002_demonhunter_male",
-            "displayColor" : "blue",
-            "tooltipParams" : "recipe/apprentice-leather-cuffs"
-          }
-        } ]
-      },
-      "mainHand" : {
-        "id" : "Wand_004",
-        "name" : "Academy Stand",
-        "icon" : "wand_004_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkAI2-zN3A4SBwgEFd3rSAUdD672xR0_ST4FHd_IsZsdfmDDYiILCAEVb0IDABgmIAYwiQM4kAJAAFAMYL0CkAEAGLqvx1RQBFgC",
-        "craftedBy" : [ {
-          "id" : "T02_Weapon_Wand",
-          "slug" : "journeyman-steel-wand",
-          "name" : "Journeyman Steel Wand",
-          "cost" : 900,
-          "reagents" : [ {
-            "quantity" : 6,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 6,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          }, {
-            "quantity" : 2,
-            "item" : {
-              "id" : "Crafting_Tier_04C",
-              "name" : "Iridescent Tear",
-              "icon" : "crafting_tier_04c_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/iridescent-tear"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Wand_004",
-            "name" : "Journeyman Steel Wand",
-            "icon" : "wand_004_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/journeyman-steel-wand"
-          }
-        } ]
-      },
-      "offHand" : {
-        "id" : "Orb_002",
-        "name" : "Sly Spellbook of Focus",
-        "icon" : "orb_002_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikI58WvhQ0SBwgEFVS7jnEdPkk-BR3vGKDgMIkCOJ8CQABQCGDJApABABio7fWYDlAEWAI",
-        "craftedBy" : [ ]
-      },
-      "waist" : {
-        "id" : "Belt_004",
-        "name" : "Scholar's Chain",
-        "icon" : "belt_004_wizard_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkAI_8Oh5A0SBwgEFTqfQtQd5y0hRx2PoIBpHX5gw2IdoFL6ayILCAAVsf4BABgKIAwwiQI4hQNAAFAMYLsDkAEAGIuD67sFUARYAg",
-        "craftedBy" : [ ]
-      },
-      "rightFinger" : {
-        "id" : "Ring_05",
-        "name" : "Ring of Focus",
-        "icon" : "ring_05_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CiQIkYKlzQ0SBwgEFfRUXUQdpnjEwTCJAjjBA0AAUAZg_QOQAQAY6NPqxQhQBFgC",
-        "craftedBy" : [ ]
-      },
-      "leftFinger" : {
-        "id" : "Ring_04",
-        "name" : "Mending Ring of Focus",
-        "icon" : "ring_04_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CigIuaOYWBIHCAQV81RdRB3nLSFHHZnAYY0wiQM4zwNAAFAIYI0EkAEAGObT6sUIUARYAg",
-        "craftedBy" : [ ]
-      },
-      "neck" : {
-        "id" : "Amulet02",
-        "name" : "Mending Amulet of Wounding",
-        "icon" : "amulet02_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikIi8j_pQUSBwgEFYrFRGQdt9b53x2ZwGGNMIkDOPMCQABQCGCnA5ABABiUlqbEDFAEWAI",
-        "craftedBy" : [ ]
-      }
-    },
-    "kills" : {
-      "elites" : 48
-    },
-    "hardcore" : true,
-    "death" : {
-      "killer" : 3337,
-      "time" : 1397829201,
-      "location" : 71150
-    },
-    "heroId" : 41804188,
-    "gender" : 1,
-    "class" : "wizard"
-  }, {
-    "name" : "IwillDieSoon",
-    "level" : 18,
-    "stats" : {
-      "life" : 0,
-      "damage" : 167.895,
-      "toughness" : 2528.46,
-      "healing" : 1.0,
-      "armor" : 0,
-      "strength" : 45,
-      "dexterity" : 225,
-      "vitality" : 153,
-      "intelligence" : 25,
-      "physicalResist" : 0,
-      "fireResist" : 2,
-      "coldResist" : 2,
-      "lightningResist" : 2,
-      "poisonResist" : 2,
-      "arcaneResist" : 2,
-      "damageIncrease" : 0.0,
-      "critChance" : 0.0,
-      "damageReduction" : 0.0
-    },
-    "items" : {
-      "head" : {
-        "id" : "Helm_002",
-        "name" : "Leather Hood of the Hawk",
-        "icon" : "helm_002_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CiQIzdartwESBwgEFffwTl0dUvDeBDCJAjjHA0AAUAZg_wOQAQAY7sP31AtQAFgC",
-        "craftedBy" : [ ]
-      },
-      "torso" : {
-        "id" : "ChestArmor_002",
-        "name" : "Adventuring Leather Doublet of the Hawk",
-        "icon" : "chestarmor_002_demonhunter_female",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikI_P-18wkSBwgEFakZGWAdPHOZuR2jTh0hMIkDOIQEQABQCGDCBJABABjS5siBDFAAWAI",
-        "craftedBy" : [ {
-          "id" : "T01_Armor_Chest",
-          "slug" : "apprentice-leather-doublet",
-          "name" : "Apprentice Leather Doublet",
-          "cost" : 1500,
-          "reagents" : [ {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "ChestArmor_002",
-            "name" : "Apprentice Leather Doublet",
-            "icon" : "chestarmor_002_demonhunter_male",
-            "displayColor" : "blue",
-            "tooltipParams" : "recipe/apprentice-leather-doublet"
-          }
-        } ]
-      },
-      "feet" : {
-        "id" : "Boots_003",
-        "name" : "Spiked Groundpounders",
-        "icon" : "boots_003_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkcIjaXQrQwSBwgEFRk9m38d6OLkBR08c5m5HU7rI-Qdo04dIR2YHZPyIgsIABXN_gEAGBQgBDCJAjjiA0AASAFQDmCdBJABABiy9Nn5D1AAWAI",
-        "craftedBy" : [ ]
-      },
-      "hands" : {
-        "id" : "Gloves_002",
-        "name" : "Clench Claim",
-        "icon" : "gloves_002_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkIIqpmbrQUSBwgEFUFTkqQd5skmBh1U8N4EHfpuL7sdbIt38CILCAEVdkIDABgcIBQwiQM4xgNAAEgPUAxg_gOQAQAY_bLttgtQAFgC",
-        "craftedBy" : [ ]
-      },
-      "shoulders" : {
-        "id" : "Shoulders_002",
-        "name" : "Gathering Leather Mantle of the Hawk",
-        "icon" : "shoulders_002_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikI5L3_pQESBwgEFUrwyBUd-708NB1ri3fwMIkCOKsDQABQCGDgA5ABABiUwcfcAlAAWAI",
-        "craftedBy" : [ {
-          "id" : "T01_Armor_Shoulders",
-          "slug" : "apprentice-leather-mantle",
-          "name" : "Apprentice Leather Mantle",
-          "cost" : 2400,
-          "reagents" : [ {
-            "quantity" : 4,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Shoulders_002",
-            "name" : "Apprentice Leather Mantle",
-            "icon" : "shoulders_002_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/apprentice-leather-mantle"
-          }
-        } ]
-      },
-      "legs" : {
-        "id" : "Pants_003",
-        "name" : "Adventuring Hide Breeches of the Hawk",
-        "icon" : "pants_003_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikIpZrNlgESBwgEFRiK1aUdPHOZuR1xYMNiMIkDOMADQABQCGD3A5ABABjP19OiC1AAWAI",
-        "craftedBy" : [ {
-          "id" : "T01_Armor_Pants",
-          "slug" : "apprentice-hide-breeches",
-          "name" : "Apprentice Hide Breeches",
-          "cost" : 425,
-          "reagents" : [ {
-            "quantity" : 6,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Pants_003",
-            "name" : "Apprentice Hide Breeches",
-            "icon" : "pants_003_demonhunter_male",
-            "displayColor" : "blue",
-            "tooltipParams" : "recipe/apprentice-hide-breeches"
-          }
-        } ]
-      },
-      "bracers" : {
-        "id" : "Bracers_002",
-        "name" : "Stalwart Defense",
-        "icon" : "bracers_002_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkUIidiuxgISBwgEFVMkyssdwtz-7B0NNsdeHTxzmbkda4t38B2jTh0hIgsIABXO_gEAGBwgDDCJAjjUA0AAUA5gjQSQAQAY2e6uwwZQAFgC",
-        "craftedBy" : [ {
-          "id" : "T01_Armor_Bracers",
-          "slug" : "apprentice-leather-cuffs",
-          "name" : "Apprentice Leather Cuffs",
-          "cost" : 255,
-          "reagents" : [ {
-            "quantity" : 11,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Bracers_002",
-            "name" : "Apprentice Leather Cuffs",
-            "icon" : "bracers_002_demonhunter_male",
-            "displayColor" : "blue",
-            "tooltipParams" : "recipe/apprentice-leather-cuffs"
-          }
-        } ]
-      },
-      "mainHand" : {
-        "id" : "HandXbow_005",
-        "name" : "Socketed Slinglock",
-        "icon" : "handxbow_005_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/ClQIw7vIqQsSBwgEFU8VV-odoenQ9R1lKNqwMIkCOIIEQABQCGC9BGopCgwIABCzksHLgICAgDMSGQjn-vrTDRIHCAQVSfWLXzCJAjgAQAGQAQCQAQAY4arH2gJQAFgC",
-        "craftedBy" : [ {
-          "id" : "T02_Weapon_HandCrossbow",
-          "slug" : "journeyman-slinglock",
-          "name" : "Journeyman Slinglock",
-          "cost" : 900,
-          "reagents" : [ {
-            "quantity" : 6,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 6,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          }, {
-            "quantity" : 2,
-            "item" : {
-              "id" : "Crafting_Tier_04C",
-              "name" : "Iridescent Tear",
-              "icon" : "crafting_tier_04c_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/iridescent-tear"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "HandXbow_005",
-            "name" : "Journeyman Slinglock",
-            "icon" : "handxbow_005_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/journeyman-slinglock"
-          }
-        } ]
-      },
-      "offHand" : {
-        "id" : "HandXbow_005",
-        "name" : "Spiteful Slinglock",
-        "icon" : "handxbow_005_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikI4_rLxwUSBwgEFU8VV-odHXrN9h1cwtDZMIkCOMYDQABQCGD9A5ABABjhqsfaAlAAWAI",
-        "craftedBy" : [ {
-          "id" : "T02_Weapon_HandCrossbow",
-          "slug" : "journeyman-slinglock",
-          "name" : "Journeyman Slinglock",
-          "cost" : 900,
-          "reagents" : [ {
-            "quantity" : 6,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 6,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          }, {
-            "quantity" : 2,
-            "item" : {
-              "id" : "Crafting_Tier_04C",
-              "name" : "Iridescent Tear",
-              "icon" : "crafting_tier_04c_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/iridescent-tear"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "HandXbow_005",
-            "name" : "Journeyman Slinglock",
-            "icon" : "handxbow_005_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/journeyman-slinglock"
-          }
-        } ]
-      },
-      "waist" : {
-        "id" : "Belt_003",
-        "name" : "Gathering Leather Belt of the Hawk",
-        "icon" : "belt_003_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikIjOjGnA4SBwgEFTmfQtQdPHOZuR1si3fwMIkDOK8DQABQCGDkA5ABABiNg-u7BVAAWAI",
-        "craftedBy" : [ {
-          "id" : "T01_Armor_Belt",
-          "slug" : "apprentice-leather-belt",
-          "name" : "Apprentice Leather Belt",
-          "cost" : 900,
-          "reagents" : [ {
-            "quantity" : 4,
-            "item" : {
-              "id" : "Crafting_Tier_04A",
-              "name" : "Common Debris",
-              "icon" : "crafting_tier_04a_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/common-debris"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Tier_04B",
-              "name" : "Exquisite Essence",
-              "icon" : "crafting_tier_04b_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/exquisite-essence"
-            }
-          }, {
-            "quantity" : 1,
-            "item" : {
-              "id" : "Crafting_Tier_04C",
-              "name" : "Iridescent Tear",
-              "icon" : "crafting_tier_04c_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/iridescent-tear"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Belt_003",
-            "name" : "Apprentice Leather Belt",
-            "icon" : "belt_003_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/apprentice-leather-belt"
-          }
-        } ]
-      },
-      "rightFinger" : {
-        "id" : "Ring_04",
-        "name" : "Glory Destroyer",
-        "icon" : "ring_04_demonhunter_male",
-        "displayColor" : "yellow",
-        "tooltipParams" : "item/CkAIh-LO0QESBwgEFfNUXUQdTusj5B30CFLnHcuk-o8d-m4vuyILCAEVZ0IDABgIICIwiQI4rgNAAFAMYOMDkAEAGObT6sUIUABYAg",
-        "craftedBy" : [ ]
-      },
-      "leftFinger" : {
-        "id" : "Ring_03",
-        "name" : "Adventuring Ring of the Bear",
-        "icon" : "ring_03_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikI8bLphwMSBwgEFfJUXUQdTusj5B0Hby-7MIkDOKIDQABQCGDVA5ABABjk0-rFCFAAWAI",
-        "craftedBy" : [ ]
-      },
-      "neck" : {
-        "id" : "Amulet01",
-        "name" : "Mending Amulet of the Hawk",
-        "icon" : "amulet01_demonhunter_male",
-        "displayColor" : "blue",
-        "tooltipParams" : "item/CikIkbL27AwSBwgEFYnFRGQdU_DeBB2YwGGNMIkDONsDQABQCGCVBJABABiSlqbEDFAAWAI",
-        "craftedBy" : [ ]
-      }
-    },
-    "kills" : {
-      "elites" : 59
-    },
-    "hardcore" : true,
-    "death" : {
-      "killer" : 5467,
-      "time" : 1397863170,
-      "location" : 180550
-    },
-    "heroId" : 41829962,
-    "gender" : 1,
-    "class" : "demon-hunter"
   } ],
   "blacksmith" : {
     "slug" : "blacksmith",
@@ -3387,41 +918,67 @@
     "stepCurrent" : 0,
     "stepMax" : 1
   },
-  "blacksmithSeasonHardcore" : {
+  "blacksmithSeason" : {
     "slug" : "blacksmith",
     "level" : 12,
     "stepCurrent" : 0,
     "stepMax" : 5
   },
-  "jewelerSeasonHardcore" : {
+  "jewelerSeason" : {
     "slug" : "jeweler",
     "level" : 12,
     "stepCurrent" : 0,
     "stepMax" : 1
   },
-  "mysticSeasonHardcore" : {
+  "mysticSeason" : {
     "slug" : "mystic",
     "level" : 12,
     "stepCurrent" : 0,
     "stepMax" : 1
   },
   "seasonalProfiles" : {
-    "season0" : {
-      "seasonId" : 0,
-      "paragonLevel" : 274,
-      "paragonLevelHardcore" : 93,
+    "season3" : {
+      "seasonId" : 3,
+      "paragonLevel" : 515,
+      "paragonLevelHardcore" : 0,
       "kills" : {
-        "monsters" : 706768,
-        "elites" : 35035,
-        "hardcoreMonsters" : 234190
+        "monsters" : 293369,
+        "elites" : 12043,
+        "hardcoreMonsters" : 0
       },
       "timePlayed" : {
-        "barbarian" : 0.848,
-        "crusader" : 0.623,
-        "demon-hunter" : 0.736,
-        "monk" : 0.446,
-        "witch-doctor" : 0.91,
-        "wizard" : 1.0
+        "barbarian" : 0.068,
+        "crusader" : 0.013,
+        "demon-hunter" : 1.0,
+        "monk" : 0.019,
+        "witch-doctor" : 0.0,
+        "wizard" : 0.0
+      },
+      "highestHardcoreLevel" : 0,
+      "progression" : {
+        "act1" : true,
+        "act2" : true,
+        "act3" : true,
+        "act4" : true,
+        "act5" : true
+      }
+    },
+    "season0" : {
+      "seasonId" : 0,
+      "paragonLevel" : 277,
+      "paragonLevelHardcore" : 252,
+      "kills" : {
+        "monsters" : 1070946,
+        "elites" : 49638,
+        "hardcoreMonsters" : 300589
+      },
+      "timePlayed" : {
+        "barbarian" : 0.639,
+        "crusader" : 0.49,
+        "demon-hunter" : 1.0,
+        "monk" : 0.337,
+        "witch-doctor" : 0.645,
+        "wizard" : 0.717
       },
       "highestHardcoreLevel" : 70,
       "progression" : {
@@ -3461,17 +1018,17 @@
     "season2" : {
       "seasonId" : 2,
       "paragonLevel" : 0,
-      "paragonLevelHardcore" : 205,
+      "paragonLevelHardcore" : 233,
       "kills" : {
-        "monsters" : 106575,
-        "elites" : 5636,
-        "hardcoreMonsters" : 106575
+        "monsters" : 173856,
+        "elites" : 8021,
+        "hardcoreMonsters" : 172973
       },
       "timePlayed" : {
         "barbarian" : 0.0,
-        "crusader" : 0.167,
-        "demon-hunter" : 0.0,
-        "monk" : 0.0,
+        "crusader" : 0.373,
+        "demon-hunter" : 0.299,
+        "monk" : 0.065,
         "witch-doctor" : 0.0,
         "wizard" : 1.0
       },

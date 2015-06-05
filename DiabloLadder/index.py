@@ -13,7 +13,7 @@ def index():
 
 
 	heroes = profile.create_ladder_entries(heroes)
-	heroes = sorted(heroes, key = lambda k: k["paragonLevelSeasonHardcore"], reverse=True)
+	heroes = sorted(heroes, key = lambda k: k["paragonLevelSeason"], reverse=True)
 	
 	return render_template("index.html", heroes=heroes)
 

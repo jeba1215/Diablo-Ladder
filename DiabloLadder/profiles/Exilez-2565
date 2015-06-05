@@ -1,124 +1,146 @@
 {
   "battleTag" : "Exilez#2565",
-  "paragonLevel" : 368,
-  "paragonLevelHardcore" : 0,
-  "paragonLevelSeason" : 55,
-  "paragonLevelSeasonHardcore" : 226,
+  "paragonLevel" : 373,
+  "paragonLevelHardcore" : 230,
+  "paragonLevelSeason" : 415,
+  "paragonLevelSeasonHardcore" : 0,
   "heroes" : [ {
-    "paragonLevel" : 368,
+    "paragonLevel" : 373,
     "seasonal" : false,
     "name" : "BIFFIG",
-    "id" : 42903784,
+    "id" : 59771378,
     "level" : 70,
     "hardcore" : false,
+    "last-updated" : 1429639586,
     "gender" : 1,
     "dead" : false,
-    "class" : "crusader",
-    "last-updated" : 1423651563
+    "class" : "crusader"
   }, {
-    "paragonLevel" : 368,
+    "paragonLevel" : 373,
     "seasonal" : false,
     "name" : "alaena",
-    "id" : 38274385,
+    "id" : 59771382,
     "level" : 70,
     "hardcore" : false,
+    "last-updated" : 1429639586,
     "gender" : 1,
     "dead" : false,
-    "class" : "monk",
-    "last-updated" : 1424517854
+    "class" : "monk"
   }, {
-    "paragonLevel" : 368,
+    "paragonLevel" : 373,
     "seasonal" : false,
     "name" : "yizzard",
-    "id" : 42155974,
+    "id" : 59771380,
     "level" : 70,
     "hardcore" : false,
+    "last-updated" : 1429639586,
     "gender" : 0,
     "dead" : false,
-    "class" : "wizard",
-    "last-updated" : 1423255101
+    "class" : "wizard"
   }, {
-    "paragonLevel" : 368,
+    "paragonLevel" : 415,
+    "seasonal" : true,
+    "name" : "CupcakeTwo",
+    "id" : 59771379,
+    "level" : 70,
+    "hardcore" : false,
+    "last-updated" : 1431174631,
+    "gender" : 0,
+    "dead" : false,
+    "class" : "witch-doctor"
+  }, {
+    "paragonLevel" : 373,
     "seasonal" : false,
     "name" : "popilolipop",
-    "id" : 44312542,
+    "id" : 59771373,
     "level" : 70,
     "hardcore" : false,
+    "last-updated" : 1429639586,
     "gender" : 0,
     "dead" : false,
-    "class" : "barbarian",
-    "last-updated" : 1424444882
+    "class" : "barbarian"
   }, {
-    "paragonLevel" : 368,
-    "seasonal" : false,
-    "name" : "ygritte",
-    "id" : 49141748,
-    "level" : 70,
-    "hardcore" : false,
-    "gender" : 1,
-    "dead" : false,
-    "class" : "witch-doctor",
-    "last-updated" : 1413222074
-  }, {
-    "paragonLevel" : 368,
+    "paragonLevel" : 373,
     "seasonal" : false,
     "name" : "Panda",
-    "id" : 41557754,
+    "id" : 59771381,
     "level" : 70,
     "hardcore" : false,
+    "last-updated" : 1429639586,
     "gender" : 1,
     "dead" : false,
-    "class" : "demon-hunter",
-    "last-updated" : 1423514640
+    "class" : "demon-hunter"
   }, {
-    "paragonLevel" : 55,
-    "seasonal" : true,
+    "paragonLevel" : 373,
+    "seasonal" : false,
     "name" : "simonsuger",
-    "id" : 55666454,
+    "id" : 59771375,
     "level" : 70,
     "hardcore" : false,
+    "last-updated" : 1429639586,
     "gender" : 0,
     "dead" : false,
-    "class" : "crusader",
-    "last-updated" : 1424985224
+    "class" : "crusader"
   }, {
-    "paragonLevel" : 0,
+    "paragonLevel" : 230,
     "seasonal" : false,
     "name" : "Letsnotdie",
-    "id" : 53908786,
+    "id" : 59771371,
     "level" : 62,
     "hardcore" : true,
+    "last-updated" : 1429639586,
     "gender" : 0,
     "dead" : false,
-    "class" : "barbarian",
-    "last-updated" : 1423408337
+    "class" : "barbarian"
   }, {
-    "paragonLevel" : 226,
+    "paragonLevel" : 415,
     "seasonal" : true,
-    "name" : "didntdieyet",
-    "id" : 56005844,
+    "name" : "CupcakeThree",
+    "id" : 59771377,
     "level" : 70,
-    "hardcore" : true,
+    "hardcore" : false,
+    "last-updated" : 1431176283,
     "gender" : 1,
     "dead" : false,
-    "class" : "witch-doctor",
-    "last-updated" : 1425225820
+    "class" : "witch-doctor"
+  }, {
+    "paragonLevel" : 230,
+    "seasonal" : false,
+    "name" : "didntdieyet",
+    "id" : 59771372,
+    "level" : 70,
+    "hardcore" : true,
+    "last-updated" : 1429639586,
+    "gender" : 1,
+    "dead" : false,
+    "class" : "witch-doctor"
+  }, {
+    "paragonLevel" : 415,
+    "seasonal" : true,
+    "name" : "QTPI",
+    "id" : 59771376,
+    "level" : 70,
+    "hardcore" : false,
+    "last-updated" : 1431174048,
+    "gender" : 1,
+    "dead" : false,
+    "class" : "monk"
   } ],
-  "lastHeroPlayed" : 56005844,
-  "lastUpdated" : 1425225820,
+  "lastHeroPlayed" : 59771377,
+  "lastUpdated" : 1431176283,
   "kills" : {
-    "monsters" : 596007,
-    "elites" : 39926,
-    "hardcoreMonsters" : 244017
+    "monsters" : 749927,
+    "elites" : 53514,
+    "hardcoreMonsters" : 245300
   },
   "highestHardcoreLevel" : 70,
   "timePlayed" : {
-    "barbarian" : 0.461,
-    "crusader" : 0.623,
-    "demon-hunter" : 0.105,
-    "monk" : 0.567,
+    "barbarian" : 0.266,
+    "crusader" : 0.353,
+    "demon-hunter" : 0.059,
+    "monk" : 0.344,
     "witch-doctor" : 1.0,
-    "wizard" : 0.413
+    "wizard" : 0.234
   },
   "progression" : {
     "act1" : true,
@@ -156,8 +178,7 @@
         "name" : "Quetzalcoatl",
         "icon" : "unique_voodoomask_005_x1_demonhunter_male",
         "displayColor" : "orange",
-        "tooltipParams" : "item/CoYBCMbHjsEOEgcIBBUUm-vNHay801Md3eFcAR2bBgDLHTsnbyQd83AHrTCLEjiBAUAAUBJYBGCiAmorCgwIABCJvdPugYCAwCoSGwjs-eOWARIHCAQVhSeUsTCPEjgAQAFYBJABAoABRpABAqUB3eFcAa0BZiMGULUBmQD1JLgBqc-64QTAAQoY15OjoQZQBlgA",
-        "craftedBy" : [ ]
+        "tooltipParams" : "item/CoYBCMbHjsEOEgcIBBUUm-vNHay801Md3eFcAR2bBgDLHTsnbyQd83AHrTCLEjiBAUAAUBJYBGCiAmorCgwIABCJvdPugYCAwCoSGwjs-eOWARIHCAQVhSeUsTCPEjgAQAFYBJABAoABRpABAqUB3eFcAa0BZiMGULUBmQD1JLgBqc-64QTAAQoY15OjoQZQBlgA"
       },
       "torso" : {
         "id" : "Unique_Chest_Set_09_x1",
@@ -165,7 +186,7 @@
         "icon" : "unique_chest_set_09_x1_witchdoctor_male",
         "displayColor" : "green",
         "tooltipParams" : "item/CuUBCOWIlt0FEgcIBBWoHHEPHT_yCdgdOLLA1R1YtxuVHUNORFEdcyMGUB2bhvbiMIsSONsBQABQElgEYIUDaisKDAgAEPHprc2BgICgMxIbCL-6t9wLEgcIBBWEJ5SxMIsSOABAAVgEkAECaisKDAgAELLhrc2BgICgMxIbCJTppboCEgcIBBWEJ5SxMI8SOABAAVgEkAECaisKDAgAENDorc2BgICgMxIbCJqTsuYFEgcIBBWDJ5SxMI8SOABAAVgEkAECgAFGkAECpQFYtxuVrQFnPuzktQExIhlguAHZvaeID8ABAxjQ8oj3AVAGWACgAZG66eEOoAGP2r38BaAB0PKI9wGgAe7m8JMGoAHCpJarDw",
-        "craftedBy" : [ ]
+        "setItemsEquipped" : [ "Unique_Pants_Set_09_x1", "Unique_Shoulder_Set_09_x1", "Unique_Gloves_Set_09_x1", "Unique_Chest_Set_09_x1", "Unique_Boots_Set_09_x1" ]
       },
       "feet" : {
         "id" : "Unique_Boots_Set_09_x1",
@@ -173,7 +194,7 @@
         "icon" : "unique_boots_set_09_x1_witchdoctor_male",
         "displayColor" : "green",
         "tooltipParams" : "item/Cl4Is_jTkwUSBwgEFXhJONAdm4b24h1DTkRRHRyTe0Yd6-LkBR0BYC2xHXGLd_AwixI4igFAAFASWARgqwKAAUaQAQKlARyTe0atAaLPFFa1AaBFm3-4AbfQ8rEIwAEJGI_avfwFUAZYAKABkbrp4Q6gAY_avfwFoAHQ8oj3AaAB7ubwkwagAcKklqsP",
-        "craftedBy" : [ ]
+        "setItemsEquipped" : [ "Unique_Pants_Set_09_x1", "Unique_Shoulder_Set_09_x1", "Unique_Gloves_Set_09_x1", "Unique_Chest_Set_09_x1", "Unique_Boots_Set_09_x1" ]
       },
       "hands" : {
         "id" : "Unique_Gloves_Set_09_x1",
@@ -181,7 +202,7 @@
         "icon" : "unique_gloves_set_09_x1_wizard_male",
         "displayColor" : "green",
         "tooltipParams" : "item/Cl4Il7fX2wMSBwgEFSHJsnod83AHrR1-VrMuHX52VaEdmwYAyx0do43EHXKOHSEwixI4-QFAAFASWARgpwOAAUaQAQKlAX52VaGtAbi8IHq1AclbkqS4AYiy8OcJwAEGGMKklqsPUAZYAKABkbrp4Q6gAY_avfwFoAHQ8oj3AaAB7ubwkwagAcKklqsP",
-        "craftedBy" : [ ]
+        "setItemsEquipped" : [ "Unique_Pants_Set_09_x1", "Unique_Shoulder_Set_09_x1", "Unique_Gloves_Set_09_x1", "Unique_Chest_Set_09_x1", "Unique_Boots_Set_09_x1" ]
       },
       "shoulders" : {
         "id" : "Unique_Shoulder_Set_09_x1",
@@ -189,7 +210,7 @@
         "icon" : "unique_shoulder_set_09_x1_demonhunter_male",
         "displayColor" : "green",
         "tooltipParams" : "item/Cl4I7vzgtwcSBwgEFXfR4okdm4b24h07J28kHUNORFEd0m8d6h0_8gnYHcStOVwwixI49QFAAFASWARgogOAAUaQAQKlAdJvHeqtAbi8IHq1AdL4yBW4Aem-pd8GwAEsGJG66eEOUAZYAKABkbrp4Q6gAY_avfwFoAHQ8oj3AaAB7ubwkwagAcKklqsP",
-        "craftedBy" : [ ]
+        "setItemsEquipped" : [ "Unique_Pants_Set_09_x1", "Unique_Shoulder_Set_09_x1", "Unique_Gloves_Set_09_x1", "Unique_Chest_Set_09_x1", "Unique_Boots_Set_09_x1" ]
       },
       "legs" : {
         "id" : "Unique_Pants_Set_09_x1",
@@ -197,140 +218,21 @@
         "icon" : "unique_pants_set_09_x1_witchdoctor_male",
         "displayColor" : "green",
         "tooltipParams" : "item/CrgBCP_RhZMPEgcIBBW3GT4xHZuG9uIdj5DKUB36YkAXHaLPFFYdAWAtsR3ZP9SfMIsSOKoBQABQElgEYM8CaisKDAgAEInkrc2BgICgMxIbCMaZt5wNEgcIBBWFJ5SxMIsSOABAAVgEkAECaisKDAgAEKbirc2BgICgMxIbCO-QgMwNEgcIBBWFJ5SxMI8SOABAAVgEkAECgAFGkAECpQH6YkAXrQFDTkRRtQGfktWluAGR5qu7A8ABARju5vCTBlAGWACgAZG66eEOoAGP2r38BaAB0PKI9wGgAe7m8JMGoAHCpJarDw",
-        "craftedBy" : [ ]
+        "setItemsEquipped" : [ "Unique_Pants_Set_09_x1", "Unique_Shoulder_Set_09_x1", "Unique_Gloves_Set_09_x1", "Unique_Chest_Set_09_x1", "Unique_Boots_Set_09_x1" ]
       },
       "bracers" : {
         "id" : "Unique_Bracer_103_x1",
         "name" : "Reaper's Wraps",
         "icon" : "unique_bracer_103_x1_demonhunter_male",
         "displayColor" : "orange",
-        "tooltipParams" : "item/ClUI9bHu6AkSBwgEFUDRWzkd59c4_h3yUGgpHZuG9uIdQ05EUR3Sn55EHaEp3AUwjxI42wFAAFASWARghQOQAQKlAdKfnkStAeYV2w24AaG7tdcOwAEFGIDF3pUHUAZYAA",
-        "recipe" : {
-          "id" : "T12_Legendary_Unique_Bracer_103_x1",
-          "slug" : "reapers-wraps",
-          "name" : "Reaper's Wraps",
-          "cost" : 36720,
-          "reagents" : [ {
-            "quantity" : 25,
-            "item" : {
-              "id" : "Crafting_AssortedParts_01",
-              "name" : "Reusable Parts",
-              "icon" : "crafting_assortedparts_01_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/reusable-parts"
-            }
-          }, {
-            "quantity" : 72,
-            "item" : {
-              "id" : "Crafting_Magic_01",
-              "name" : "Arcane Dust",
-              "icon" : "crafting_magic_01_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/arcane-dust"
-            }
-          }, {
-            "quantity" : 7,
-            "item" : {
-              "id" : "Crafting_Rare_01",
-              "name" : "Veiled Crystal",
-              "icon" : "crafting_rare_01_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/veiled-crystal"
-            }
-          }, {
-            "quantity" : 2,
-            "item" : {
-              "id" : "Crafting_Legendary_01",
-              "name" : "Forgotten Soul",
-              "icon" : "crafting_legendary_01_demonhunter_male",
-              "displayColor" : "orange",
-              "tooltipParams" : "item/forgotten-soul"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Looted_Reagent_01",
-              "name" : "Death's Breath",
-              "icon" : "crafting_looted_reagent_01_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/deaths-breath"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Unique_Bracer_103_x1",
-            "name" : "Reaper's Wraps",
-            "icon" : "unique_bracer_103_x1_demonhunter_male",
-            "displayColor" : "orange",
-            "tooltipParams" : "recipe/reapers-wraps"
-          }
-        },
-        "craftedBy" : [ {
-          "id" : "T12_Legendary_Unique_Bracer_103_x1",
-          "slug" : "reapers-wraps",
-          "name" : "Reaper's Wraps",
-          "cost" : 36720,
-          "reagents" : [ {
-            "quantity" : 25,
-            "item" : {
-              "id" : "Crafting_AssortedParts_01",
-              "name" : "Reusable Parts",
-              "icon" : "crafting_assortedparts_01_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/reusable-parts"
-            }
-          }, {
-            "quantity" : 72,
-            "item" : {
-              "id" : "Crafting_Magic_01",
-              "name" : "Arcane Dust",
-              "icon" : "crafting_magic_01_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/arcane-dust"
-            }
-          }, {
-            "quantity" : 7,
-            "item" : {
-              "id" : "Crafting_Rare_01",
-              "name" : "Veiled Crystal",
-              "icon" : "crafting_rare_01_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/veiled-crystal"
-            }
-          }, {
-            "quantity" : 2,
-            "item" : {
-              "id" : "Crafting_Legendary_01",
-              "name" : "Forgotten Soul",
-              "icon" : "crafting_legendary_01_demonhunter_male",
-              "displayColor" : "orange",
-              "tooltipParams" : "item/forgotten-soul"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Looted_Reagent_01",
-              "name" : "Death's Breath",
-              "icon" : "crafting_looted_reagent_01_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/deaths-breath"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Unique_Bracer_103_x1",
-            "name" : "Reaper's Wraps",
-            "icon" : "unique_bracer_103_x1_demonhunter_male",
-            "displayColor" : "orange",
-            "tooltipParams" : "recipe/reapers-wraps"
-          }
-        } ]
+        "tooltipParams" : "item/ClUI9bHu6AkSBwgEFUDRWzkd59c4_h3yUGgpHZuG9uIdQ05EUR3Sn55EHaEp3AUwjxI42wFAAFASWARghQOQAQKlAdKfnkStAeYV2w24AaG7tdcOwAEFGIDF3pUHUAZYAA"
       },
       "mainHand" : {
         "id" : "P2_Unique_Staff_003",
         "name" : "Wormwood",
         "icon" : "p2_unique_staff_003_demonhunter_male",
         "displayColor" : "orange",
-        "tooltipParams" : "item/CoEBCJCDj8sFEgcIBBXdup5wHdy0ivsdhpD82h1uUJAFHd7T9aIwixI4hQJAAFASWARgtANqKwoMCAAQtOvztYKAgKAyEhsIkfztqwwSBwgEFSOWrpgwjxI4AEABWASQAQKAAUaQAQKlAYaQ_NqtAWYjBlC1AWgp5YG4AYe4hs4HwAEBGLrr9YkOUAZYAA",
-        "craftedBy" : [ ]
+        "tooltipParams" : "item/CoEBCJCDj8sFEgcIBBXdup5wHdy0ivsdhpD82h1uUJAFHd7T9aIwixI4hQJAAFASWARgtANqKwoMCAAQtOvztYKAgKAyEhsIkfztqwwSBwgEFSOWrpgwjxI4AEABWASQAQKAAUaQAQKlAYaQ_NqtAWYjBlC1AWgp5YG4AYe4hs4HwAEBGLrr9YkOUAZYAA"
       },
       "waist" : {
         "id" : "Unique_Belt_015_x1",
@@ -338,23 +240,21 @@
         "icon" : "unique_belt_015_x1_demonhunter_male",
         "displayColor" : "green",
         "tooltipParams" : "item/Cl4IhtvFiQsSBwgEFRrEn2kdtE-Jbh29VYTTHd6C_OUdP_IJ2B3cO1NoHYQDodYwixo42AFAAFASWARgggOAAUaQAQKlAYQDodatAYQDoda1AcCnQtS4Ae_QnZkOwAEJGLSQ_pkNUAZYAKABuNvbsQugAbSQ_pkN",
-        "craftedBy" : [ ]
+        "setItemsEquipped" : [ "Unique_Amulet_016_x1", "Unique_Belt_015_x1" ]
       },
       "rightFinger" : {
         "id" : "Unique_Ring_107_x1",
         "name" : "Ring of Royal Grandeur",
         "icon" : "unique_ring_107_x1_demonhunter_male",
         "displayColor" : "orange",
-        "tooltipParams" : "item/CosBCOvMiKoHEgcIBBUlmHq7HR2jjcQdmKeOwB3Sn55EHX52VaEdm4b24jCLEjj9AUAAUBJYBGCrA2owCgwIABCbsNHogICAgAwSIAixrdeaDhIHCAQVC4uiwTCLEjgAQABQElgEkAEC2AE8gAFGkAECpQHSn55ErQFmIwZQtQE2VV1EuAGYodb0B8ABAhi1n6vICFAGWAA",
-        "craftedBy" : [ ]
+        "tooltipParams" : "item/CosBCOvMiKoHEgcIBBUlmHq7HR2jjcQdmKeOwB3Sn55EHX52VaEdm4b24jCLEjj9AUAAUBJYBGCrA2owCgwIABCbsNHogICAgAwSIAixrdeaDhIHCAQVC4uiwTCLEjgAQABQElgEkAEC2AE8gAFGkAECpQHSn55ErQFmIwZQtQE2VV1EuAGYodb0B8ABAhi1n6vICFAGWAA"
       },
       "leftFinger" : {
         "id" : "Unique_Ring_022_x1",
         "name" : "Skull Grasp",
         "icon" : "unique_ring_022_x1_demonhunter_male",
         "displayColor" : "orange",
-        "tooltipParams" : "item/CkgI_deSyAkSBwgEFaHiRrkdP_IJ2B3ZP9SfHZinjsAdQ05EUR3mFdsNHZuG9uIwixI4vgFAAFASWARg5QKAAUaQAQK1ATZVXUQYvfXI6whQBlgA",
-        "craftedBy" : [ ]
+        "tooltipParams" : "item/CkgI_deSyAkSBwgEFaHiRrkdP_IJ2B3ZP9SfHZinjsAdQ05EUR3mFdsNHZuG9uIwixI4vgFAAFASWARg5QKAAUaQAQK1ATZVXUQYvfXI6whQBlgA"
       },
       "neck" : {
         "id" : "Unique_Amulet_016_x1",
@@ -362,7 +262,7 @@
         "icon" : "unique_amulet_016_x1_demonhunter_male",
         "displayColor" : "green",
         "tooltipParams" : "item/CpABCLXH9Z0BEgcIBBXcdhtbHbdbVE0dco4dIR1mIwZQHZsGAMsdflazLh3zcAetMIsSOK8BQABQElgEYNUCajAKDAgAEN2fx-iAgICADBIgCJ7Ej-8NEgcIBBVOvLXBMIsSOABAAFASWASQAQLYATaAAUaQAQKlAZsGAMutAbDBCXK1AbDFRGS4AbGCjaQCwAERGLjb27ELUAZYAKABuNvbsQugAbSQ_pkN",
-        "craftedBy" : [ ]
+        "setItemsEquipped" : [ "Unique_Amulet_016_x1", "Unique_Belt_015_x1" ]
       }
     },
     "kills" : {
@@ -407,47 +307,15 @@
         "icon" : "helm_207_barbarian_male",
         "displayColor" : "yellow",
         "tooltipParams" : "item/CkwIup3IrAYSBwgEFX75Tl0dx7RFLh2ZBgDLHX-BxsQddB5swB2AYMNiHZ9hLbEiCwgAFcz-AQAYGiAIMIkCOM0DQABIA1AQYIAEkAEAGPzl99QLUAJYAA",
-        "craftedBy" : [ {
-          "id" : "T11_Armor_Helm",
-          "slug" : "exquisite-rakkisgard-helm",
-          "name" : "Exquisite Rakkisgard Helm",
-          "cost" : 15300,
-          "reagents" : [ {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_AssortedParts_01",
-              "name" : "Reusable Parts",
-              "icon" : "crafting_assortedparts_01_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/reusable-parts"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Magic_01",
-              "name" : "Arcane Dust",
-              "icon" : "crafting_magic_01_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/arcane-dust"
-            }
-          }, {
-            "quantity" : 30,
-            "item" : {
-              "id" : "Crafting_Rare_01",
-              "name" : "Veiled Crystal",
-              "icon" : "crafting_rare_01_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/veiled-crystal"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Helm_207",
-            "name" : "Exquisite Rakkisgard Helm",
-            "icon" : "helm_207_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/exquisite-rakkisgard-helm"
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_19",
+            "name" : "Purity Dye",
+            "icon" : "dye_19_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/purity-dye"
           }
-        } ]
+        }
       },
       "torso" : {
         "id" : "ChestArmor_207",
@@ -455,47 +323,15 @@
         "icon" : "chestarmor_207_barbarian_male",
         "displayColor" : "yellow",
         "tooltipParams" : "item/CqYBCPrP0tQMEgcIBBUwIhlgHY-QylAdJ7Z8rx3B44pGHfKS3AgdcIt38B2NEFboIgsIARWIQgMAGA4gBDCJAjjqA0AASBNQEGCgBGorCgwIABDeza2FgYCAoAISGwikrdK8CRIHCAQVZ_WLXzCLAjgAQAFYBJABAGorCgwIABDm-cmDgoCAgAQSGwj41quMCBIHCAQVZ_WLXzCLAjgAQAFYBJABAJABABjgiMmBDFACWAA",
-        "craftedBy" : [ {
-          "id" : "T11_Armor_Chest",
-          "slug" : "exquisite-rakkisgard-armor",
-          "name" : "Exquisite Rakkisgard Armor",
-          "cost" : 90000,
-          "reagents" : [ {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_AssortedParts_01",
-              "name" : "Reusable Parts",
-              "icon" : "crafting_assortedparts_01_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/reusable-parts"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Magic_01",
-              "name" : "Arcane Dust",
-              "icon" : "crafting_magic_01_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/arcane-dust"
-            }
-          }, {
-            "quantity" : 2,
-            "item" : {
-              "id" : "Crafting_Rare_01",
-              "name" : "Veiled Crystal",
-              "icon" : "crafting_rare_01_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/veiled-crystal"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "ChestArmor_207",
-            "name" : "Exquisite Rakkisgard Armor",
-            "icon" : "chestarmor_207_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/exquisite-rakkisgard-armor"
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_08",
+            "name" : "Desert Dye",
+            "icon" : "dye_08_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/desert-dye"
           }
-        } ]
+        }
       },
       "feet" : {
         "id" : "Boots_207",
@@ -503,47 +339,15 @@
         "icon" : "boots_207_barbarian_male",
         "displayColor" : "yellow",
         "tooltipParams" : "item/CkcI_7ur7AYSBwgEFZ9Fm38dJ7Z8rx3B44pGHSBlW0sd_y7XjR2q05k5IgsIABXM_gEAGB4gBDCJAjjbA0AASBFQDmCPBJABABi-ltr5D1ACWAA",
-        "craftedBy" : [ {
-          "id" : "T11_Armor_Boots",
-          "slug" : "exquisite-rakkisgard-greaves",
-          "name" : "Exquisite Rakkisgard Greaves",
-          "cost" : 13500,
-          "reagents" : [ {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_AssortedParts_01",
-              "name" : "Reusable Parts",
-              "icon" : "crafting_assortedparts_01_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/reusable-parts"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Magic_01",
-              "name" : "Arcane Dust",
-              "icon" : "crafting_magic_01_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/arcane-dust"
-            }
-          }, {
-            "quantity" : 15,
-            "item" : {
-              "id" : "Crafting_Rare_01",
-              "name" : "Veiled Crystal",
-              "icon" : "crafting_rare_01_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/veiled-crystal"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Boots_207",
-            "name" : "Exquisite Rakkisgard Greaves",
-            "icon" : "boots_207_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/exquisite-rakkisgard-greaves"
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_06",
+            "name" : "Ranger's Dye",
+            "icon" : "dye_06_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/rangers-dye"
           }
-        } ]
+        }
       },
       "hands" : {
         "id" : "Gloves_207",
@@ -551,47 +355,15 @@
         "icon" : "gloves_207_barbarian_male",
         "displayColor" : "yellow",
         "tooltipParams" : "item/CkcIv9vDmAUSBwgEFchbkqQdjLXvcx1_gcbEHZkGAMsdN3XajB2AYMNiIgsIABXI_gEAGAIgEDCJAjiaA0AASAxQDmDHA5ABABjvkO22C1ACWAA",
-        "craftedBy" : [ {
-          "id" : "T11_Armor_Gloves",
-          "slug" : "exquisite-rakkisgard-gauntlets",
-          "name" : "Exquisite Rakkisgard Gauntlets",
-          "cost" : 15300,
-          "reagents" : [ {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_AssortedParts_01",
-              "name" : "Reusable Parts",
-              "icon" : "crafting_assortedparts_01_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/reusable-parts"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Magic_01",
-              "name" : "Arcane Dust",
-              "icon" : "crafting_magic_01_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/arcane-dust"
-            }
-          }, {
-            "quantity" : 30,
-            "item" : {
-              "id" : "Crafting_Rare_01",
-              "name" : "Veiled Crystal",
-              "icon" : "crafting_rare_01_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/veiled-crystal"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Gloves_207",
-            "name" : "Exquisite Rakkisgard Gauntlets",
-            "icon" : "gloves_207_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/exquisite-rakkisgard-gauntlets"
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_03",
+            "name" : "Winter Dye",
+            "icon" : "dye_03_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/winter-dye"
           }
-        } ]
+        }
       },
       "shoulders" : {
         "id" : "Shoulders_207",
@@ -599,47 +371,15 @@
         "icon" : "shoulders_207_barbarian_male",
         "displayColor" : "yellow",
         "tooltipParams" : "item/CkcI5Ne51Q4SBwgEFdH4yBUdJ7Z8rx27H7xFHd-v_sUdjRBW6B3_LteNIgsIARVJRAMAGAQgDDCJAjiwA0AASBJQDmDgA5ABABii48fcAlACWAA",
-        "craftedBy" : [ {
-          "id" : "T11_Armor_Shoulders",
-          "slug" : "exquisite-rakkisgard-pauldrons",
-          "name" : "Exquisite Rakkisgard Pauldrons",
-          "cost" : 72000,
-          "reagents" : [ {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_AssortedParts_01",
-              "name" : "Reusable Parts",
-              "icon" : "crafting_assortedparts_01_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/reusable-parts"
-            }
-          }, {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_Magic_01",
-              "name" : "Arcane Dust",
-              "icon" : "crafting_magic_01_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/arcane-dust"
-            }
-          }, {
-            "quantity" : 2,
-            "item" : {
-              "id" : "Crafting_Rare_01",
-              "name" : "Veiled Crystal",
-              "icon" : "crafting_rare_01_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/veiled-crystal"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Shoulders_207",
-            "name" : "Exquisite Rakkisgard Pauldrons",
-            "icon" : "shoulders_207_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/exquisite-rakkisgard-pauldrons"
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_01",
+            "name" : "Tanner's Dye",
+            "icon" : "dye_01_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/tanners-dye"
           }
-        } ]
+        }
       },
       "legs" : {
         "id" : "Pants_207",
@@ -647,135 +387,57 @@
         "icon" : "pants_207_barbarian_male",
         "displayColor" : "yellow",
         "tooltipParams" : "item/CkcI0LuPyAMSBwgEFZ6S1aUdx9kpTh3B44pGHSe2fK8dILQFlR2R10e0IgsIARWKQgMAGBQgBjCJAjiFBEAASAxQDmC-BJABABjDtdOiC1ACWAA",
-        "craftedBy" : [ {
-          "id" : "T11_Armor_Pants",
-          "slug" : "exquisite-rakkisgard-leg-plates",
-          "name" : "Exquisite Rakkisgard Leg Plates",
-          "cost" : 15300,
-          "reagents" : [ {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_AssortedParts_01",
-              "name" : "Reusable Parts",
-              "icon" : "crafting_assortedparts_01_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/reusable-parts"
-            }
-          }, {
-            "quantity" : 24,
-            "item" : {
-              "id" : "Crafting_Magic_01",
-              "name" : "Arcane Dust",
-              "icon" : "crafting_magic_01_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/arcane-dust"
-            }
-          }, {
-            "quantity" : 2,
-            "item" : {
-              "id" : "Crafting_Rare_01",
-              "name" : "Veiled Crystal",
-              "icon" : "crafting_rare_01_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/veiled-crystal"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Pants_207",
-            "name" : "Exquisite Rakkisgard Leg Plates",
-            "icon" : "pants_207_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/exquisite-rakkisgard-leg-plates"
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_03",
+            "name" : "Winter Dye",
+            "icon" : "dye_03_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/winter-dye"
           }
-        } ]
+        }
       },
       "bracers" : {
         "id" : "Bracers_207",
         "name" : "Sling Impact",
         "icon" : "bracers_207_demonhunter_male",
         "displayColor" : "yellow",
-        "tooltipParams" : "item/CkUIhJfejA4SBwgEFdosyssdweOKRh0ntnyvHT11eQUd1rPA1R0qUhpJIgsIARXmoAUAGAYgCDCJAji7A0AAUA5g7AOQAQAYy8yuwwZQAlgA",
-        "craftedBy" : [ {
-          "id" : "T11_Armor_Bracers",
-          "slug" : "exquisite-rakkisgard-bracers",
-          "name" : "Exquisite Rakkisgard Bracers",
-          "cost" : 15300,
-          "reagents" : [ {
-            "quantity" : 5,
-            "item" : {
-              "id" : "Crafting_AssortedParts_01",
-              "name" : "Reusable Parts",
-              "icon" : "crafting_assortedparts_01_demonhunter_male",
-              "displayColor" : "white",
-              "tooltipParams" : "item/reusable-parts"
-            }
-          }, {
-            "quantity" : 40,
-            "item" : {
-              "id" : "Crafting_Magic_01",
-              "name" : "Arcane Dust",
-              "icon" : "crafting_magic_01_demonhunter_male",
-              "displayColor" : "blue",
-              "tooltipParams" : "item/arcane-dust"
-            }
-          }, {
-            "quantity" : 2,
-            "item" : {
-              "id" : "Crafting_Rare_01",
-              "name" : "Veiled Crystal",
-              "icon" : "crafting_rare_01_demonhunter_male",
-              "displayColor" : "yellow",
-              "tooltipParams" : "item/veiled-crystal"
-            }
-          } ],
-          "itemProduced" : {
-            "id" : "Bracers_207",
-            "name" : "Exquisite Rakkisgard Bracers",
-            "icon" : "bracers_207_demonhunter_male",
-            "displayColor" : "yellow",
-            "tooltipParams" : "recipe/exquisite-rakkisgard-bracers"
-          }
-        } ]
+        "tooltipParams" : "item/CkUIhJfejA4SBwgEFdosyssdweOKRh0ntnyvHT11eQUd1rPA1R0qUhpJIgsIARXmoAUAGAYgCDCJAji7A0AAUA5g7AOQAQAYy8yuwwZQAlgA"
       },
       "mainHand" : {
         "id" : "Unique_Mighty_2H_101_x1",
         "name" : "Madawc's Sorrow",
         "icon" : "unique_mighty_2h_101_x1_demonhunter_male",
         "displayColor" : "orange",
-        "tooltipParams" : "item/CkMI1J2x2AISBwgEFdrqqRwdjFkwRx0lMwmqHZS2rQgdHRMENB1LUjUxMIsCOKgCQABQElgEYMgCgAFBkAEAtQGpRZ8TGLSrz8oDUAJYAA",
-        "craftedBy" : [ ]
+        "tooltipParams" : "item/CkMI1J2x2AISBwgEFdrqqRwdjFkwRx0lMwmqHZS2rQgdHRMENB1LUjUxMIsCOKgCQABQElgEYMgCgAFBkAEAtQGpRZ8TGLSrz8oDUAJYAA"
       },
       "waist" : {
         "id" : "Unique_BarbBelt_003_x1",
         "name" : "Thundergod's Vigor",
         "icon" : "unique_barbbelt_003_x1_demonhunter_male",
         "displayColor" : "orange",
-        "tooltipParams" : "item/CjkIxdHB7wQSBwgEFU6yFDcdIGVbSx0CmefLHWhr2TQwiwI48wFAAFASWARgjQKAAUGQAQC1AZT35H0YnMml8QZQAlgA",
-        "craftedBy" : [ ]
+        "tooltipParams" : "item/CjkIxdHB7wQSBwgEFU6yFDcdIGVbSx0CmefLHWhr2TQwiwI48wFAAFASWARgjQKAAUGQAQC1AZT35H0YnMml8QZQAlgA"
       },
       "rightFinger" : {
         "id" : "Unique_Ring_020_x1",
         "name" : "Bul-Kathos's Wedding Band",
         "icon" : "unique_ring_020_x1_demonhunter_male",
         "displayColor" : "orange",
-        "tooltipParams" : "item/CkMI8bOZigUSBwgEFd_JRbkdbc2JHh2o1nX8HZHqQb8dsB4OUB3-o_KPMIsCOOICQABQElgEYIkDgAFDkAEAtQE1VV1EGMHY0esIUAJYAA",
-        "craftedBy" : [ ]
+        "tooltipParams" : "item/CkMI8bOZigUSBwgEFd_JRbkdbc2JHh2o1nX8HZHqQb8dsB4OUB3-o_KPMIsCOOICQABQElgEYIkDgAFDkAEAtQE1VV1EGMHY0esIUAJYAA"
       },
       "leftFinger" : {
         "id" : "Ring_24",
         "name" : "Vile Loop",
         "icon" : "ring_24_demonhunter_male",
         "displayColor" : "yellow",
-        "tooltipParams" : "item/CkQIz-WDTxIHCAQVNVVdRB1QNeU5HR-4mVIdCYfBNx0ntnyvHeiV2dYiCwgAFbT-AQAYGiAIMIkCOOYDQABQDmCbBJABABjq1OrFCFACWAA",
-        "craftedBy" : [ ]
+        "tooltipParams" : "item/CkQIz-WDTxIHCAQVNVVdRB1QNeU5HR-4mVIdCYfBNx0ntnyvHeiV2dYiCwgAFbT-AQAYGiAIMIkCOOYDQABQDmCbBJABABjq1OrFCFACWAA"
       },
       "neck" : {
         "id" : "Amulet16",
         "name" : "Mesmerism Psyche",
         "icon" : "amulet16_demonhunter_male",
         "displayColor" : "yellow",
-        "tooltipParams" : "item/ClIIj92mtQsSBwgEFa_FRGQdf4HGxB2Mte9zHXcHxPQd1rPA1SILCAEVZmkFABgOICAwiwI45AJAAFAMYIsDkAEApQF3B8T0rQF3B8T0uAEAwAECGN6WpsQMUAJYAA",
-        "craftedBy" : [ ]
+        "tooltipParams" : "item/ClIIj92mtQsSBwgEFa_FRGQdf4HGxB2Mte9zHXcHxPQd1rPA1SILCAEVZmkFABgOICAwiwI45AJAAFAMYIsDkAEApQF3B8T0rQF3B8T0uAEAwAECGN6WpsQMUAJYAA"
       }
     },
     "kills" : {
@@ -817,7 +479,7 @@
   },
   "jewelerHardcore" : {
     "slug" : "jeweler",
-    "level" : 10,
+    "level" : 12,
     "stepCurrent" : 0,
     "stepMax" : 1
   },
@@ -845,41 +507,49 @@
     "stepCurrent" : 0,
     "stepMax" : 1
   },
-  "blacksmithSeasonHardcore" : {
-    "slug" : "blacksmith",
-    "level" : 12,
-    "stepCurrent" : 0,
-    "stepMax" : 5
-  },
-  "jewelerSeasonHardcore" : {
-    "slug" : "jeweler",
-    "level" : 12,
-    "stepCurrent" : 0,
-    "stepMax" : 1
-  },
-  "mysticSeasonHardcore" : {
-    "slug" : "mystic",
-    "level" : 12,
-    "stepCurrent" : 0,
-    "stepMax" : 1
-  },
   "seasonalProfiles" : {
-    "season0" : {
-      "seasonId" : 0,
-      "paragonLevel" : 368,
+    "season3" : {
+      "seasonId" : 3,
+      "paragonLevel" : 415,
       "paragonLevelHardcore" : 0,
       "kills" : {
-        "monsters" : 453766,
-        "elites" : 30401,
-        "hardcoreMonsters" : 137616
+        "monsters" : 74962,
+        "elites" : 6479,
+        "hardcoreMonsters" : 0
       },
       "timePlayed" : {
-        "barbarian" : 0.82,
-        "crusader" : 1.0,
-        "demon-hunter" : 0.174,
-        "monk" : 0.945,
-        "witch-doctor" : 0.933,
-        "wizard" : 0.735
+        "barbarian" : 0.0050,
+        "crusader" : 0.0,
+        "demon-hunter" : 0.0,
+        "monk" : 0.045,
+        "witch-doctor" : 1.0,
+        "wizard" : 0.0
+      },
+      "highestHardcoreLevel" : 0,
+      "progression" : {
+        "act1" : false,
+        "act2" : false,
+        "act3" : false,
+        "act4" : false,
+        "act5" : false
+      }
+    },
+    "season0" : {
+      "seasonId" : 0,
+      "paragonLevel" : 373,
+      "paragonLevelHardcore" : 230,
+      "kills" : {
+        "monsters" : 532088,
+        "elites" : 37266,
+        "hardcoreMonsters" : 138263
+      },
+      "timePlayed" : {
+        "barbarian" : 0.516,
+        "crusader" : 0.62,
+        "demon-hunter" : 0.108,
+        "monk" : 0.608,
+        "witch-doctor" : 1.0,
+        "wizard" : 0.456
       },
       "highestHardcoreLevel" : 70,
       "progression" : {
@@ -909,27 +579,27 @@
       },
       "highestHardcoreLevel" : 50,
       "progression" : {
-        "act1" : true,
-        "act2" : true,
-        "act3" : true,
-        "act4" : true,
-        "act5" : true
+        "act1" : false,
+        "act2" : false,
+        "act3" : false,
+        "act4" : false,
+        "act5" : false
       }
     },
     "season2" : {
       "seasonId" : 2,
       "paragonLevel" : 55,
-      "paragonLevelHardcore" : 226,
+      "paragonLevelHardcore" : 230,
       "kills" : {
-        "monsters" : 119029,
-        "elites" : 8076,
-        "hardcoreMonsters" : 102527
+        "monsters" : 119665,
+        "elites" : 8320,
+        "hardcoreMonsters" : 103163
       },
       "timePlayed" : {
         "barbarian" : 0.0,
-        "crusader" : 0.165,
+        "crusader" : 0.163,
         "demon-hunter" : 0.0,
-        "monk" : 0.0,
+        "monk" : 0.0090,
         "witch-doctor" : 1.0,
         "wizard" : 0.0
       },

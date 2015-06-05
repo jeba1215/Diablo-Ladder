@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Diablo 3 Ladder</title>
+    <title>Starter Template for Bootstrap</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
@@ -24,68 +24,64 @@
     <![endif]-->
   </head>
 
-  <body> 
+  <body>
 
-    <div class="site-wrapper">
-
-      <div class="site-wrapper-inner">
-
-        <div class="cover-container">
-
-          <div class="masthead clearfix">
-            <div class="inner">
-              <h3 class="masthead-brand">Diablo 3 Ladder</h3>
-              <nav>
-                <ul class="nav masthead-nav">
-                  <li class="active"><a href="#">Home</a></li>
-                  <li class="active"><a href="#">Refresh</a></li>
-                  <li>
-                    <div class="dropdown">
-                      <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
-                        Dropdown
-                        <span class="caret"></span>                        
-                      </button>
-                    </div>
-                  </li>
-                </ul>
-              </nav>
-            </div>
-          </div>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Project name</a>
         </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
     
-        <div class="col-md-6 table-centered">
-          <table class="table">
+    <div class="col-md-6">
+          <table class="table table-striped">
             <thead>
               <tr>
-                <th class="text-center">Paragon</th>
-                <th class="text-center">Character </th>
-                <th class="text-center">Level</th>
-                <th class="text-center">Class</th>
-                <th class="text-center">Player</th>
-                <th class="text-center">Dead</th>
+                <th>Paragon Level</th>
+                <th>Character </th>
+                <th>Hardcore</th>
+                <th>Level</th>
+                <th>Class</th>
+                <th>Player</th>
               </tr>
             </thead>
             <tbody>
               {% for hero in heroes %}
                 <tr>
-                  <td>{{hero["paragonLevelSeasonHardcore"] }}</td>
+                  <td>{{hero["paragonLevelSeason"] }}</td>
                   <td>{{hero["name"] }}</td>
+                  <td>{{hero["hardcore"] }}</td>
                   <td>{{hero["level"] }}</td>
                   <td>{{hero["class"] }}</td>
                   <td>{{hero["battleTag"] }}</td>
-                  <td>{{hero["dead"] }}</td>
-                </tr>
+                </tr>      
               {% endfor %}
             </tbody>
           </table>
         </div>
-    </div>
+      </div>
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <script src="js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>
   </body>

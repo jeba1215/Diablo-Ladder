@@ -1,9 +1,9 @@
 {
   "battleTag" : "Hakkapetti#2130",
   "paragonLevel" : 180,
-  "paragonLevelHardcore" : 0,
+  "paragonLevelHardcore" : 103,
   "paragonLevelSeason" : 0,
-  "paragonLevelSeasonHardcore" : 103,
+  "paragonLevelSeasonHardcore" : 0,
   "heroes" : [ {
     "paragonLevel" : 180,
     "seasonal" : false,
@@ -11,10 +11,10 @@
     "id" : 1788566,
     "level" : 70,
     "hardcore" : false,
+    "last-updated" : 1424730062,
     "gender" : 0,
     "dead" : false,
-    "class" : "barbarian",
-    "last-updated" : 1424730062
+    "class" : "barbarian"
   }, {
     "paragonLevel" : 180,
     "seasonal" : false,
@@ -22,32 +22,32 @@
     "id" : 42903715,
     "level" : 70,
     "hardcore" : false,
+    "last-updated" : 1425080289,
     "gender" : 0,
     "dead" : false,
-    "class" : "crusader",
-    "last-updated" : 1425080289
+    "class" : "crusader"
   }, {
     "paragonLevel" : 103,
-    "seasonal" : true,
+    "seasonal" : false,
     "name" : "Barbahakka",
     "id" : 54618817,
     "level" : 70,
     "hardcore" : true,
+    "last-updated" : 1424818066,
     "gender" : 0,
     "dead" : true,
-    "class" : "barbarian",
-    "last-updated" : 1424818066
+    "class" : "barbarian"
   }, {
-    "paragonLevel" : 0,
+    "paragonLevel" : 103,
     "seasonal" : false,
     "name" : "Punchy",
     "id" : 40895675,
     "level" : 66,
     "hardcore" : true,
+    "last-updated" : 1401533709,
     "gender" : 0,
     "dead" : false,
-    "class" : "crusader",
-    "last-updated" : 1401533709
+    "class" : "crusader"
   }, {
     "paragonLevel" : 180,
     "seasonal" : false,
@@ -55,10 +55,10 @@
     "id" : 40725238,
     "level" : 64,
     "hardcore" : false,
+    "last-updated" : 1411249191,
     "gender" : 1,
     "dead" : false,
-    "class" : "wizard",
-    "last-updated" : 1411249191
+    "class" : "wizard"
   }, {
     "paragonLevel" : 180,
     "seasonal" : false,
@@ -66,32 +66,32 @@
     "id" : 2927031,
     "level" : 36,
     "hardcore" : false,
+    "last-updated" : 1397148045,
     "gender" : 1,
     "dead" : false,
-    "class" : "monk",
-    "last-updated" : 1397148045
+    "class" : "monk"
   }, {
-    "paragonLevel" : 0,
+    "paragonLevel" : 103,
     "seasonal" : false,
     "name" : "Barbamamma",
     "id" : 52946186,
     "level" : 52,
     "hardcore" : true,
+    "last-updated" : 1419632889,
     "gender" : 1,
     "dead" : true,
-    "class" : "barbarian",
-    "last-updated" : 1419632889
+    "class" : "barbarian"
   }, {
-    "paragonLevel" : 0,
+    "paragonLevel" : 103,
     "seasonal" : false,
     "name" : "Hakku",
     "id" : 41885310,
     "level" : 32,
     "hardcore" : true,
+    "last-updated" : 1400936531,
     "gender" : 1,
     "dead" : false,
-    "class" : "demon-hunter",
-    "last-updated" : 1400936531
+    "class" : "demon-hunter"
   }, {
     "paragonLevel" : 180,
     "seasonal" : false,
@@ -99,21 +99,21 @@
     "id" : 49141080,
     "level" : 37,
     "hardcore" : false,
+    "last-updated" : 1410719446,
     "gender" : 0,
     "dead" : false,
-    "class" : "wizard",
-    "last-updated" : 1410719446
+    "class" : "wizard"
   }, {
     "paragonLevel" : 103,
-    "seasonal" : true,
+    "seasonal" : false,
     "name" : "Barbahakkur",
     "id" : 56260459,
     "level" : 70,
     "hardcore" : true,
+    "last-updated" : 1425078216,
     "gender" : 0,
     "dead" : false,
-    "class" : "barbarian",
-    "last-updated" : 1425078216
+    "class" : "barbarian"
   }, {
     "paragonLevel" : 180,
     "seasonal" : false,
@@ -121,10 +121,10 @@
     "id" : 9171329,
     "level" : 17,
     "hardcore" : false,
+    "last-updated" : 1339000135,
     "gender" : 1,
     "dead" : false,
-    "class" : "demon-hunter",
-    "last-updated" : 1339000135
+    "class" : "demon-hunter"
   } ],
   "lastHeroPlayed" : 42903715,
   "lastUpdated" : 1425080289,
@@ -170,13 +170,13 @@
   },
   "blacksmithHardcore" : {
     "slug" : "blacksmith",
-    "level" : 10,
-    "stepCurrent" : 4,
+    "level" : 12,
+    "stepCurrent" : 0,
     "stepMax" : 5
   },
   "jewelerHardcore" : {
     "slug" : "jeweler",
-    "level" : 10,
+    "level" : 12,
     "stepCurrent" : 0,
     "stepMax" : 1
   },
@@ -186,29 +186,11 @@
     "stepCurrent" : 0,
     "stepMax" : 1
   },
-  "blacksmithSeasonHardcore" : {
-    "slug" : "blacksmith",
-    "level" : 12,
-    "stepCurrent" : 0,
-    "stepMax" : 5
-  },
-  "jewelerSeasonHardcore" : {
-    "slug" : "jeweler",
-    "level" : 12,
-    "stepCurrent" : 0,
-    "stepMax" : 1
-  },
-  "mysticSeasonHardcore" : {
-    "slug" : "mystic",
-    "level" : 12,
-    "stepCurrent" : 0,
-    "stepMax" : 1
-  },
   "seasonalProfiles" : {
     "season0" : {
       "seasonId" : 0,
       "paragonLevel" : 180,
-      "paragonLevelHardcore" : 0,
+      "paragonLevelHardcore" : 103,
       "kills" : {
         "monsters" : 236303,
         "elites" : 16190,
